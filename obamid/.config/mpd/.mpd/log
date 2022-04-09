@@ -1,0 +1,52 @@
+Jan 09 00:48 : exception: Failed to open '/home/obamid/.config/mpd/.mpd/state': No such file or directory
+Jan 09 00:48 : update: added /Claws and Teeth.opus
+Jan 09 00:50 : update: added /Claws and Teeth.opus
+Jan 09 00:51 : exception: Bad song index
+Jan 09 00:52 : exception: Not playing
+Jan 09 00:53 : exception: Bad song index
+Jan 09 00:53 : exception: Bad song index
+Jan 09 00:53 : exception: Bad song index
+Jan 09 00:56 : exception: Not playing
+Jan 09 01:05 : player: played "Claws and Teeth.opus"
+Jan 09 01:10 : update: added Trance & Psytrance/Claws and Teeth.opus
+Jan 09 01:10 : player: played "Trance & Psytrance/Claws and Teeth.opus"
+Jan 09 01:11 : update: updating Trance & Psytrance/Claws and Teeth.opus
+Jan 09 01:11 : player: played "Trance & Psytrance/Claws and Teeth.opus"
+Jan 09 01:12 : update: updating Trance & Psytrance/Claws and Teeth.opus
+Jan 09 01:12 : player: played "Trance & Psytrance/Claws and Teeth.opus"
+Jan 09 01:12 : update: updating Trance & Psytrance/Claws and Teeth.opus
+Jan 09 01:12 : player: played "Trance & Psytrance/Claws and Teeth.opus"
+Jan 09 01:13 : update: updating Trance & Psytrance/Claws and Teeth.opus
+Jan 09 01:14 : player: played "Trance & Psytrance/Claws and Teeth.opus"
+Jan 09 01:35 : update: updating Trance & Psytrance/Claws and Teeth.opus
+Jan 09 01:35 : player: played "Trance & Psytrance/Claws and Teeth.opus"
+Jan 09 02:43 : player: played "Trance & Psytrance/Claws and Teeth.opus"
+Jan 09 02:45 : player: played "Trance & Psytrance/Claws and Teeth.opus"
+Jan 09 02:46 : player: played "Trance & Psytrance/Claws and Teeth.opus"
+Jan 09 02:46 : player: played "Trance & Psytrance/Claws and Teeth.opus"
+Jan 09 02:49 : player: played "Trance & Psytrance/Claws and Teeth.opus"
+Jan 09 18:45 : player: played "Trance & Psytrance/Claws and Teeth.opus"
+Jan 09 19:12 : update: added Trance & Psytrance/Dear Eternity.opus
+Jan 09 19:13 : update: removing Claws and Teeth.opus
+Jan 09 19:23 : player: played "Trance & Psytrance/Dear Eternity.opus"
+Jan 10 15:10 : exception: Failed to commit /home/obamid/.config/mpd/.mpd/state: File exists
+Jan 10 15:10 : exception: Failed to commit /home/obamid/.config/mpd/.mpd/state: File exists
+Jan 12 20:31 : exception: Failed to create Avahi client: Daemon not running
+Jan 15 21:35 : exception: Failed to create Avahi client: Daemon not running
+Jan 17 14:58 : exception: Failed to create Avahi client: Daemon not running
+Jan 17 14:58 : exception: Failed to create Avahi client: Daemon not running
+Jan 23 21:00 : exception: Failed to create Avahi client: Daemon not running
+Jan 30 18:48 : exception: Failed to decode /home/obamid/Music/Trance & Psytrance/Dear Eternity.opus; Failed to open '/home/obamid/Music/Trance & Psytrance/Dear Eternity.opus': No such file or directory
+Jan 30 18:48 : exception: Failed to decode /home/obamid/Music/Trance & Psytrance/Claws and Teeth.opus; Failed to open '/home/obamid/Music/Trance & Psytrance/Claws and Teeth.opus': No such file or directory
+Jan 30 18:48 : player: played "Trance & Psytrance/Dear Eternity.opus"
+Jan 30 18:48 : exception: Failed to decode /home/obamid/Music/Trance & Psytrance/Claws and Teeth.opus; Failed to open '/home/obamid/Music/Trance & Psytrance/Claws and Teeth.opus': No such file or directory
+Jan 30 18:48 : player: played "Trance & Psytrance/Claws and Teeth.opus"
+Feb 08 21:32 : exception: Failed to decode /home/obamid/Music/Trance & Psytrance/Dear Eternity.opus; Failed to open '/home/obamid/Music/Trance & Psytrance/Dear Eternity.opus': No such file or directory
+Feb 08 21:32 : player: played "Trance & Psytrance/Dear Eternity.opus"
+Mar 10 15:13 : exception: Failed to create Avahi client: Daemon not running
+Mar 23 14:42 : exception: Failed to decode /home/obamid/Music/Trance & Psytrance/Claws and Teeth.opus; Failed to open '/home/obamid/Music/Trance & Psytrance/Claws and Teeth.opus': No such file or directory
+Mar 23 14:42 : player: played "Trance & Psytrance/Claws and Teeth.opus"
+Mar 23 14:42 : exception: Failed to decode /home/obamid/Music/Trance & Psytrance/Dear Eternity.opus; Failed to open '/home/obamid/Music/Trance & Psytrance/Dear Eternity.opus': No such file or directory
+Mar 23 14:42 : player: played "Trance & Psytrance/Dear Eternity.opus"
+Mar 31 17:41 : exception: Failed to commit /home/obamid/.config/mpd/.mpd/state: File exists
+Apr 01 21:11 : exception: Failed to commit /home/obamid/.config/mpd/.mpd/state: File exists

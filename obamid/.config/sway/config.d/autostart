@@ -1,0 +1,19 @@
+# Starting audio server
+exec pipewire
+exec pipewire-pulse
+exec wireplumber
+
+# Notifications
+exec dbus-launch mako
+
+# Authentication agent for gay things
+exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
+
+# Easyeffects startup
+# exec easyeffects -w
+
+# Music Player Daemon
+exec mpd
+
+# Automatic temperature setting 
+exec ~/.config/sway/scripts/light.sh
