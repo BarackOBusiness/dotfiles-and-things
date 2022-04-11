@@ -12,6 +12,7 @@ Install dbus elogind variants and elogind and libseat obviously\
 reboot with those services enabled
 
 ## PHASE 2:
+
 Install sway, all the shit in the amd or ati section of the voidlinux handbook\
 \+ ffmpeg + kitty + firefox + rofi + something I'm probably forgetting\
 verify sway works, then go BALLS TO THE WALLS with this config\
