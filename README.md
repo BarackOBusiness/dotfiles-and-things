@@ -1,7 +1,7 @@
 # Some instructions for future me
 
 ## Things to install
--
+--
 Ok you know what you got this, you don't need instructions\
 This completely destroys the above statement but uhh here's the game plan:\
 Install void\
@@ -17,7 +17,7 @@ Install sway, all the shit in the amd or ati section of the voidlinux handbook\
 verify sway works, then go BALLS TO THE WALLS with this config\
 (install [wlgreet](https://git.sr.ht/~kennylevinsen/wlgreet) (you know the deal))\
 (((get pipewire working, DOWNLOAD THE WHOLE MUSIC PLAYLIST AND RIP AND TEAR THROUGH THIS SYSTEM INSTALL)))\
--
+--
 That is all for now, get to work.
 
 # I don't know man
