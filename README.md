@@ -6,10 +6,11 @@
 
 ## Things to install
 
-Game plan: [Install gentoo](https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/About) under the following criteria:\
+Game plan: [Install gentoo](https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/About) under the following criteria:
 * Uses [gentoobry overlay](https://github.com/gentoobr/overlay) for xanmod sources
 * Replaces OpenRC with [66](https://framagit.org/gentoo-66/66tools-overlay/-/tree/master)
 * Employs usage of btrfs subvolumes for snapshots
+
 Install needed tools like doas, micro, ufw, whatever\
 Install dbus, elogind, seatd or seat or whatever\
 Reboot with those services enabled\
