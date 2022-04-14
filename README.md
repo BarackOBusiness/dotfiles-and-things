@@ -1,7 +1,7 @@
 # Some instructions for future me
 
-**VOID LINUX DREAM IS DEAD**
-**INSTALLATION IS FUEL**
+**VOID LINUX DREAM IS DEAD**\
+**INSTALLATION IS FUEL**\
 **GENTOO IS FULL**
 
 ## Things to install
