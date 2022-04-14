@@ -14,6 +14,11 @@ exec ~/.azotebg
 # Font matching with waybar
 font pango:FiraSans Medium 10.5
 
+# Set cursor theme
+# seat seat0 xcursor_theme <INSERT_THEME_HERE> 16
+# themes install to /usr/share/icons/
+# ls there to find the names.
+
 ## Window decoration
 # class					border	backgr.	text	indicator child_border
 client.focused			#88c0d0	#434c5e	#eceff4	#8fbcbb   #88c0d0

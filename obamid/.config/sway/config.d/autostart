@@ -4,16 +4,16 @@ exec pipewire-pulse
 exec wireplumber
 
 # Notifications
-exec dbus-launch mako
+exec mako
 
 # Authentication agent for gay things
 exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 
 # Easyeffects startup
-# exec easyeffects -w
+exec easyeffects --gapplication-service
 
 # Music Player Daemon
 exec mpd
 
 # Automatic temperature setting 
-exec ~/.config/sway/scripts/light.sh
+# exec ~/.config/sway/scripts/light.sh

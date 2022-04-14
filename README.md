@@ -1,25 +1,31 @@
 # Some instructions for future me
 
+**VOID LINUX DREAM IS DEAD**
+**INSTALLATION IS FUEL**
+**GENTOO IS FULL**
+
 ## Things to install
 
-Ok you know what you got this, you don't need instructions\
-This completely destroys the above statement but uhh here's the game plan:\
-Install void\
-Install micro, opendoas, fish-shell, and 66 - should be done pretty easily\
-DESTROY SUDO (and runit (but don't remove it))\
-(Make your core+tty+graphical tree setup as usual, follow the manual instructions)\
-Install dbus elogind variants and elogind and libseat obviously\
-reboot with those services enabled
+Game plan: [Install gentoo](https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/About) under the following criteria:\
+* Uses [gentoobry overlay](https://github.com/gentoobr/overlay) for xanmod sources
+* Replaces OpenRC with [66](https://framagit.org/gentoo-66/66tools-overlay/-/tree/master)
+* Employs usage of btrfs subvolumes for snapshots
+Install needed tools like doas, micro, ufw, whatever\
+Install dbus, elogind, seatd or seat or whatever\
+Reboot with those services enabled\
+Install [wlgreet](https://git.sr.ht/~kennylevinsen/wlgreet)\
+Prepare for GUI.
 
 ## Phase 2
 
-Install sway, all the shit in the amd or ati section of the voidlinux handbook\
-\+ ffmpeg + kitty + firefox + rofi + something I'm probably forgetting\
-verify sway works, then go BALLS TO THE WALLS with this config\
-(install [wlgreet](https://git.sr.ht/~kennylevinsen/wlgreet) (you know the deal))\
-(((get pipewire working, DOWNLOAD THE WHOLE MUSIC PLAYLIST AND RIP AND TEAR THROUGH THIS SYSTEM INSTALL)))\
---
+Research use flags so you can consider the following:\
+Install sway, all the shit that lets graphical applications work + kitty + firefox + wofi + shit\
+verify sway works, then start syncing with this config\
+(get pipewire working, then jamm)
+
+___
 That is all for now, get to work.
 
 # I don't know man
 - [Materia GTK Theme](https://github.com/nana-4/materia-theme/blob/master/INSTALL.md)
+- 

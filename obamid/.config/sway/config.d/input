@@ -1,5 +1,5 @@
 input type:pointer {
 	accel_profile flat
 	pointer_accel 0
-	scroll_factor 2.5
+	scroll_factor 1.5
 }

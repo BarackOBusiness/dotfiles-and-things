@@ -1,7 +1,7 @@
-font= Mononoki Nerd Font
+font=mononoki-Regular Nerd Font Complete
 background-color=#1c1e26
 progress-color=#e95678
-width= 350
+width=350
 height=140
 icons=1
 padding=20
