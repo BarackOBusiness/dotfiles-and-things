@@ -69,6 +69,8 @@ Emray - About 10 Hours of making Breakcore\
 strxwberrymilk - Her Laugh\
 strxwberrymilk - My Head Hurts\
 I.W. - work, sleep, work, sleep, work, sleep, die.  [I want to quit everything and just be close to you]
+strxwberrymilk - Resurrection of Mother Earth\
+strxwberrymilk - There was once a planet called Earth
 
 [Trance]
 
