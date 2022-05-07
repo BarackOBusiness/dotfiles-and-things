@@ -1,0 +1,315 @@
+   0.000 2022-05-01 21:05:51; Factorio 1.1.57 (build 59622, linux64, steam)
+   0.000 Operating system: Linux
+   0.000 Program arguments: "/home/obamid/.local/share/Steam/steamapps/common/Factorio/bin/x64/factorio" 
+   0.000 Read data path: /home/obamid/.local/share/Steam/steamapps/common/Factorio/data
+   0.000 Write data path: /home/obamid/.factorio [189646/239841MB]
+   0.000 Binaries path: /home/obamid/.local/share/Steam/steamapps/common/Factorio/bin
+   0.009 System info: [CPU: AMD Ryzen 7 2700X Eight-Core Processor, 16 cores, RAM: 15925 MB]
+   0.009 Environment: DISPLAY=:0 WAYLAND_DISPLAY=wayland-1 DESKTOP_SESSION=<unset> XDG_SESSION_DESKTOP=sway XDG_CURRENT_DESKTOP=sway __GL_FSAA_MODE=<unset> __GL_LOG_MAX_ANISO=<unset> __GL_SYNC_TO_VBLANK=<unset> __GL_SORT_FBCONFIGS=<unset> __GL_YIELD=<unset>
+   0.009 Display options: [FullScreen: 1] [VSync: 1] [UIScale: automatic (100.0%)] [Native DPI: 1] [Screen: 255] [Special: lmw] [Lang: en]
+   0.052 Available displays: 1
+   0.052  [0]: XWAYLAND12 27" - {[0,0], 1920x1080, SDL_PIXELFORMAT_RGB888, 120Hz}
+   0.058 Initialised OpenGL:[0] AMD Radeon RX Vega (vega10, LLVM 13.0.1, DRM 3.44, 5.16.16-xanmod1); driver: 4.6 (Core Profile) Mesa 22.0.1
+   0.058   [Extensions] s3tc:yes; KHR_debug:yes; ARB_clear_texture:yes, ARB_copy_image:yes
+   0.058   [Version] 4.6
+   0.058 Graphics settings preset: very-high
+   0.058   Dedicated video memory size 8192 MB
+   0.080 Graphics options: [Graphics quality: high] [Video memory usage: all] [DXT: high-quality] [Color: 32bit]
+   0.080                   [Max threads (load/render): 32/12] [Max texture size: 0] [Tex.Stream.: 0] [Rotation quality: normal] [Other: STDCWT] [B:25,C:0,S:120]
+   0.103 [Audio] Backend:default; Depth:16, Channel:2, Frequency:44100; MixerQuality:linear
+   0.167 Loading mod settings actual-craft-times-remade 1.0.6 (settings.lua)
+   0.167 Loading mod settings flib 0.10.1 (settings.lua)
+   0.167 Loading mod settings GTTS 1.6.3 (settings.lua)
+   0.167 Loading mod settings Squeak Through 1.8.2 (settings.lua)
+   0.167 Loading mod settings BottleneckLite 1.2.3 (settings.lua)
+   0.168 Loading mod core 0.0.0 (data.lua)
+   0.223 Loading mod base 1.1.57 (data.lua)
+   0.451 Loading mod actual-craft-times-remade 1.0.6 (data.lua)
+   0.530 Loading mod flib 0.10.1 (data.lua)
+   0.629 Loading mod InvertedOilRefinery 0.110.1 (data.lua)
+   0.732 Loading mod base 1.1.57 (data-updates.lua)
+   0.881 Loading mod Squeak Through 1.8.2 (data-updates.lua)
+   1.004 Loading mod GTTS 1.6.3 (data-final-fixes.lua)
+   1.280 Script @__GTTS__/data-final-fixes.lua:212: Object: fire-flame-on-tree Key: fade_out_duration Value: 400 too high clamped to: 255
+   1.455 Loading mod BottleneckLite 1.2.3 (data-final-fixes.lua)
+   1.587 Checksum for core: 1636702648
+   1.587 Checksum of base: 1844968960
+   1.587 Checksum of actual-craft-times-remade: 1433440700
+   1.587 Checksum of flib: 2594110821
+   1.587 Checksum of GTTS: 1596091393
+   1.588 Checksum of InvertedOilRefinery: 2808366837
+   1.588 Checksum of Squeak Through: 2759453103
+   1.588 Checksum of BottleneckLite: 1191650011
+   1.813 Prototype list checksum: 479489272
+   1.867 Loading sounds...
+   1.904 Info PlayerData.cpp:73: Local player-data.json unavailable
+   1.904 Info PlayerData.cpp:76: Cloud player-data.json available, timestamp 1651453554
+   2.027 Initial atlas bitmap size is 16384
+   2.059 Created atlas bitmap 16384x16384 [none]
+   2.061 Created atlas bitmap 16384x13240 [none]
+   2.061 Created atlas bitmap 8192x4208 [decal]
+   2.062 Created atlas bitmap 16384x5568 [low-object]
+   2.062 Created atlas bitmap 8192x4464 [mipmap, linear-minification, linear-magnification, linear-mip-level]
+   2.063 Created atlas bitmap 16384x6064 [terrain, mipmap, linear-minification, linear-mip-level]
+   2.063 Created atlas bitmap 4096x3216 [terrain-effect-map, mipmap, linear-minification, linear-mip-level]
+   2.063 Created atlas bitmap 4096x1856 [smoke, mipmap, linear-minification, linear-magnification]
+   2.063 Created atlas bitmap 4096x3088 [mipmap]
+   2.063 Created atlas bitmap 8192x2288 [icon, not-compressed, mipmap, linear-minification, linear-magnification]
+   2.064 Created atlas bitmap 8192x1496 [alpha-mask]
+   2.066 Created atlas bitmap 16384x14764 [shadow, linear-magnification, alpha-mask]
+   2.066 Created atlas bitmap 8192x2336 [shadow, mipmap, linear-magnification, alpha-mask]
+   2.066 Created atlas bitmap 2048x240 [icon-background, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level, ]
+   2.073 Texture processor created (2048). GPU accelerated compression Supported: yes, Enabled: yes/yes. Test passed. YCoCgDXT PSNR: 35.83, BC3 PSNR: 33.82
+   2.471 Parallel Sprite Loader initialized (threads: 13)
+   8.162 Sprites loaded
+   8.175 Generated mipmaps (4) for atlas [3] of size 16384x5568   
+   8.177 Generated mipmaps (3) for atlas [4] of size 8192x4464   
+   8.181 Generated mipmaps (3) for atlas [5] of size 16384x6064   
+   8.181 Generated mipmaps (3) for atlas [6] of size 4096x3216   
+   8.182 Generated mipmaps (3) for atlas [7] of size 4096x1856   
+   8.204 Generated mipmaps (3) for atlas [8] of size 4096x3088   
+   8.206 Generated mipmaps (5) for atlas [9] of size 8192x2288   
+   8.207 Generated mipmaps (3) for atlas [12] of size 8192x2336   
+   8.215 Custom mipmaps uploaded.
+   8.512 Factorio initialised
+   8.513 Steam Storage Quota: 4546/4768
+  23.767 Joining game IP ADDR:({127.0.0.1:34197})
+  23.767 Info UDPSocket.cpp:33: Opening socket
+  23.770 Info ClientMultiplayerManager.cpp:608: UpdateTick(4294967295) changing state from(Ready) to(Connecting)
+  23.799 Connection refused
+  23.800 Info ClientMultiplayerManager.cpp:210: Quitting multiplayer connection.
+  23.800 Info ClientMultiplayerManager.cpp:608: UpdateTick(4294967295) changing state from(Connecting) to(Disconnected)
+  23.800 Info HttpSharedState.cpp:54: Downloading https://auth.factorio.com/generate-user-server-key-2?api_version=4
+  23.925 Info AuthServerConnector.cpp:103: Received key from auth server.
+  23.925 Info UDPSocket.cpp:218: Closing socket
+  23.925 Info UDPSocket.cpp:248: Socket closed
+  23.925 Joining game IP ADDR:({127.0.0.1:34197})
+  23.925 Info UDPSocket.cpp:33: Opening socket
+  23.925 Info ClientMultiplayerManager.cpp:608: UpdateTick(4294967295) changing state from(Ready) to(Connecting)
+  23.951 Info ClientSynchronizer.cpp:33: Initialized Synchronizer local peer(1) latency(32).
+  23.952 Info ClientMultiplayerManager.cpp:608: UpdateTick(4294967295) changing state from(Connecting) to(ConnectedWaitingForMap)
+  23.952 Info ClientRouter.cpp:221: ConnectionAccepted
+  23.966 Downloading file /home/obamid/.factorio/temp/auxiliary-data (82 B, 1 blocks)
+  23.966 Finished download (0 s, 82 B, 82.0 kB/s)
+  24.299 Info ClientMultiplayerManager.cpp:786: Received mapReadyForDownload
+  24.299 Downloading file /home/obamid/.factorio/temp/mp-download.zip (15359291 B, 30536 blocks)
+  24.305 Info ClientMultiplayerManager.cpp:608: UpdateTick(4294967295) changing state from(ConnectedWaitingForMap) to(ConnectedDownloadingMap)
+  25.664 Finished download (1 s, 15.3 MB, 11.2 MB/s)
+  25.680 Info ClientMultiplayerManager.cpp:766: updateTick(4294967295) map download finished creating scenario
+  25.680 Info ClientMultiplayerManager.cpp:608: UpdateTick(4294967295) changing state from(ConnectedDownloadingMap) to(ConnectedLoadingMap)
+  25.680 Loading map /home/obamid/.factorio/temp/mp-download.zip: 15359291 bytes.
+  25.697 Loading level.dat: 38800024 bytes.
+  25.703 Info Scenario.cpp:199: Map version 1.1.57-1
+  26.334 Loading blueprint storage: Local timestamp 1651276237, Cloud timestamp 1651278358
+  26.335 Loading script.dat: 5773 bytes.
+  26.338 Checksum for script /home/obamid/.factorio/temp/currently-playing/control.lua: 3795083680
+  26.339 Checksum for script __actual-craft-times-remade__/control.lua: 3770996488
+  26.340 Checksum for script __GTTS__/control.lua: 2391048649
+  26.351 Info ClientMultiplayerManager.cpp:608: UpdateTick(13440616) changing state from(ConnectedLoadingMap) to(TryingToCatchUp)
+  26.538 Info ClientMultiplayerManager.cpp:608: UpdateTick(13440818) changing state from(TryingToCatchUp) to(WaitingForCommandToStartSendingTickClosures)
+  26.570 Info ClientMultiplayerManager.cpp:608: UpdateTick(13440818) changing state from(WaitingForCommandToStartSendingTickClosures) to(InGame)
+  26.587 Info GameActionHandler.cpp:4996: UpdateTick (13440822) processed PlayerJoinGame peerID(1) playerIndex(0) mode(connect) 
+  28.139 Info ClientSynchronizer.cpp:335: Latency changed to (14)
+  29.389 Info ClientSynchronizer.cpp:335: Latency changed to (13)
+  30.639 Info ClientSynchronizer.cpp:335: Latency changed to (12)
+  31.889 Info ClientSynchronizer.cpp:335: Latency changed to (11)
+  39.389 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+  59.382 Info ClientSynchronizer.cpp:335: Latency changed to (12)
+  65.633 Info ClientSynchronizer.cpp:335: Latency changed to (11)
+  69.511 Info ClientSynchronizer.cpp:335: Latency changed to (17)
+  72.533 Info ClientSynchronizer.cpp:335: Latency changed to (19)
+ 284.971 Info ClientSynchronizer.cpp:335: Latency changed to (13)
+ 286.222 Info ClientSynchronizer.cpp:335: Latency changed to (9)
+ 294.039 Info ClientSynchronizer.cpp:335: Latency changed to (11)
+ 300.290 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+ 301.515 Info GameActionHandler.cpp:4996: UpdateTick (13506594) processed PlayerJoinGame peerID(2) playerIndex(1) mode(connect) 
+ 308.032 Info ClientSynchronizer.cpp:335: Latency changed to (19)
+ 314.032 Info ClientSynchronizer.cpp:335: Latency changed to (13)
+ 315.282 Info ClientSynchronizer.cpp:335: Latency changed to (11)
+ 322.255 Info ClientSynchronizer.cpp:335: Latency changed to (17)
+ 327.784 Info ClientSynchronizer.cpp:335: Latency changed to (13)
+ 337.785 Info ClientSynchronizer.cpp:335: Latency changed to (12)
+ 339.035 Info ClientSynchronizer.cpp:335: Latency changed to (9)
+ 340.284 Info ClientSynchronizer.cpp:335: Latency changed to (8)
+ 351.535 Info ClientSynchronizer.cpp:335: Latency changed to (9)
+ 387.360 Info ClientSynchronizer.cpp:335: Latency changed to (18)
+ 395.288 Info ClientSynchronizer.cpp:335: Latency changed to (15)
+ 396.538 Info ClientSynchronizer.cpp:335: Latency changed to (14)
+ 397.788 Info ClientSynchronizer.cpp:335: Latency changed to (13)
+ 399.038 Info ClientSynchronizer.cpp:335: Latency changed to (12)
+ 412.789 Info ClientSynchronizer.cpp:335: Latency changed to (11)
+ 414.038 Info ClientSynchronizer.cpp:335: Latency changed to (9)
+ 417.789 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+ 424.031 Info ClientSynchronizer.cpp:335: Latency changed to (11)
+ 443.082 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+ 444.333 Info ClientSynchronizer.cpp:335: Latency changed to (11)
+ 463.084 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+ 464.333 Info ClientSynchronizer.cpp:335: Latency changed to (9)
+ 474.334 Info ClientSynchronizer.cpp:335: Latency changed to (8)
+ 480.585 Info ClientSynchronizer.cpp:335: Latency changed to (9)
+ 550.588 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+ 553.145 Info ClientSynchronizer.cpp:335: Latency changed to (19)
+ 564.339 Info ClientSynchronizer.cpp:335: Latency changed to (15)
+ 565.590 Info ClientSynchronizer.cpp:335: Latency changed to (13)
+ 566.834 Info ClientSynchronizer.cpp:335: Latency changed to (12)
+ 575.866 Info ClientSynchronizer.cpp:335: Latency changed to (11)
+ 577.116 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+ 610.868 Info ClientSynchronizer.cpp:335: Latency changed to (9)
+ 673.366 Info ClientSynchronizer.cpp:335: Latency changed to (11)
+ 678.372 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+ 690.912 Info ClientSynchronizer.cpp:335: Latency changed to (19)
+ 699.623 Info ClientSynchronizer.cpp:335: Latency changed to (14)
+ 700.866 Info ClientSynchronizer.cpp:335: Latency changed to (12)
+ 713.366 Info ClientSynchronizer.cpp:335: Latency changed to (11)
+ 714.616 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+ 728.651 Info ClientSynchronizer.cpp:335: Latency changed to (8)
+ 746.152 Info ClientSynchronizer.cpp:335: Latency changed to (9)
+ 824.906 Info ClientSynchronizer.cpp:335: Latency changed to (11)
+ 848.650 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+ 854.901 Info ClientSynchronizer.cpp:335: Latency changed to (8)
+ 856.151 Info ClientSynchronizer.cpp:335: Latency changed to (9)
+ 872.401 Info ClientSynchronizer.cpp:335: Latency changed to (8)
+ 880.185 Info ClientSynchronizer.cpp:335: Latency changed to (9)
+ 916.438 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+ 919.343 Info ClientSynchronizer.cpp:335: Latency changed to (18)
+ 925.188 Info ClientSynchronizer.cpp:335: Latency changed to (17)
+ 926.438 Info ClientSynchronizer.cpp:335: Latency changed to (14)
+ 927.688 Info ClientSynchronizer.cpp:335: Latency changed to (13)
+ 933.939 Info ClientSynchronizer.cpp:335: Latency changed to (12)
+ 935.189 Info ClientSynchronizer.cpp:335: Latency changed to (11)
+ 936.439 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+ 937.689 Info ClientSynchronizer.cpp:335: Latency changed to (12)
+ 942.689 Info ClientSynchronizer.cpp:335: Latency changed to (13)
+ 947.690 Info ClientSynchronizer.cpp:335: Latency changed to (12)
+ 965.182 Info ClientSynchronizer.cpp:335: Latency changed to (11)
+ 966.433 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+ 992.684 Info ClientSynchronizer.cpp:335: Latency changed to (9)
+1124.218 Info ClientSynchronizer.cpp:335: Latency changed to (8)
+1127.970 Info ClientSynchronizer.cpp:335: Latency changed to (9)
+1177.172 Info ClientSynchronizer.cpp:335: Latency changed to (18)
+1183.271 Info ClientSynchronizer.cpp:335: Latency changed to (15)
+1184.522 Info ClientSynchronizer.cpp:335: Latency changed to (14)
+1185.772 Info ClientSynchronizer.cpp:335: Latency changed to (13)
+1192.022 Info ClientSynchronizer.cpp:335: Latency changed to (12)
+1193.272 Info ClientSynchronizer.cpp:335: Latency changed to (11)
+1194.522 Info ClientSynchronizer.cpp:335: Latency changed to (9)
+1207.023 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+1209.515 Info ClientSynchronizer.cpp:335: Latency changed to (11)
+1234.518 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+1235.767 Info ClientSynchronizer.cpp:335: Latency changed to (9)
+1245.768 Info ClientSynchronizer.cpp:335: Latency changed to (8)
+1267.019 Info ClientSynchronizer.cpp:335: Latency changed to (9)
+1278.269 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+1295.771 Info ClientSynchronizer.cpp:335: Latency changed to (9)
+1304.522 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+1310.771 Info ClientSynchronizer.cpp:335: Latency changed to (9)
+1327.315 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+1367.318 Info ClientSynchronizer.cpp:335: Latency changed to (9)
+1419.820 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+1429.821 Info ClientSynchronizer.cpp:335: Latency changed to (9)
+1432.322 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+1436.071 Info ClientSynchronizer.cpp:335: Latency changed to (18)
+1442.322 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+1443.572 Info ClientSynchronizer.cpp:335: Latency changed to (9)
+1466.065 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+1474.816 Info ClientSynchronizer.cpp:335: Latency changed to (11)
+1481.388 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+1492.635 Info ClientSynchronizer.cpp:335: Latency changed to (9)
+1504.425 Info ClientSynchronizer.cpp:335: Latency changed to (18)
+1506.384 Info ClientSynchronizer.cpp:335: Latency changed to (19)
+1511.385 Info ClientSynchronizer.cpp:335: Latency changed to (15)
+1512.637 Info ClientSynchronizer.cpp:335: Latency changed to (13)
+1518.885 Info ClientSynchronizer.cpp:335: Latency changed to (12)
+1525.136 Info ClientSynchronizer.cpp:335: Latency changed to (11)
+1526.385 Info ClientSynchronizer.cpp:335: Latency changed to (9)
+1573.889 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+1590.140 Info ClientSynchronizer.cpp:335: Latency changed to (11)
+1596.389 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+1598.882 Info ClientSynchronizer.cpp:335: Latency changed to (11)
+1620.134 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+1621.383 Info ClientSynchronizer.cpp:335: Latency changed to (9)
+1622.635 Info ClientSynchronizer.cpp:335: Latency changed to (8)
+1636.670 Info ClientSynchronizer.cpp:335: Latency changed to (9)
+1687.923 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+1716.665 Info ClientSynchronizer.cpp:335: Latency changed to (11)
+1751.667 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+1752.917 Info ClientSynchronizer.cpp:335: Latency changed to (9)
+1803.238 Info ClientSynchronizer.cpp:335: Latency changed to (11)
+1810.737 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+1854.489 Info ClientSynchronizer.cpp:335: Latency changed to (11)
+1865.732 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+1876.984 Info ClientSynchronizer.cpp:335: Latency changed to (9)
+1944.806 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+1982.300 Info ClientSynchronizer.cpp:335: Latency changed to (11)
+1994.799 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+2001.049 Info ClientSynchronizer.cpp:335: Latency changed to (9)
+2018.551 Info ClientSynchronizer.cpp:335: Latency changed to (8)
+2032.301 Info ClientSynchronizer.cpp:335: Latency changed to (9)
+2097.606 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+2122.599 Info ClientSynchronizer.cpp:335: Latency changed to (12)
+2127.599 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+2147.600 Info ClientSynchronizer.cpp:335: Latency changed to (9)
+2148.850 Info ClientSynchronizer.cpp:335: Latency changed to (8)
+2166.354 Info ClientSynchronizer.cpp:335: Latency changed to (9)
+2245.382 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+2277.885 Info ClientSynchronizer.cpp:335: Latency changed to (9)
+2360.389 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+2408.184 Info ClientSynchronizer.cpp:335: Latency changed to (9)
+2409.434 Info ClientSynchronizer.cpp:335: Latency changed to (8)
+2426.936 Info ClientSynchronizer.cpp:335: Latency changed to (9)
+2430.685 Info ClientSynchronizer.cpp:335: Latency changed to (11)
+2454.438 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+2455.688 Info ClientSynchronizer.cpp:335: Latency changed to (9)
+2478.188 Info ClientSynchronizer.cpp:335: Latency changed to (11)
+2491.939 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+2494.439 Info ClientSynchronizer.cpp:335: Latency changed to (11)
+2508.182 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+2520.193 Info ClientSynchronizer.cpp:335: Latency changed to (17)
+2524.590 Info ClientMultiplayerManager.cpp:151: Disconnecting multiplayer connection. Reason: Quit.
+2524.590 Info ClientMultiplayerManager.cpp:608: UpdateTick(14039132) changing state from(InGame) to(DisconnectScheduled)
+2524.599 Info ClientMultiplayerManager.cpp:608: UpdateTick(14039132) changing state from(DisconnectScheduled) to(WaitingForDisconnectConfirmation)
+2524.616 Info ClientMultiplayerManager.cpp:608: UpdateTick(14039132) changing state from(WaitingForDisconnectConfirmation) to(Disconnected)
+2524.616 Info ClientMultiplayerManager.cpp:930: Disconnect notification for peer (1)
+2524.767 Info UDPSocket.cpp:218: Closing socket
+2524.767 Info UDPSocket.cpp:248: Socket closed
+2527.062 Joining game IP ADDR:({127.0.0.1:34197})
+2527.062 Info UDPSocket.cpp:33: Opening socket
+2527.062 Info ClientMultiplayerManager.cpp:608: UpdateTick(4294967295) changing state from(Ready) to(Connecting)
+2527.082 Info ClientSynchronizer.cpp:33: Initialized Synchronizer local peer(1) latency(32).
+2527.083 Info ClientMultiplayerManager.cpp:608: UpdateTick(4294967295) changing state from(Connecting) to(ConnectedWaitingForMap)
+2527.083 Info ClientRouter.cpp:221: ConnectionAccepted
+2527.099 Downloading file /home/obamid/.factorio/temp/auxiliary-data (82 B, 1 blocks)
+2527.099 Finished download (0 s, 82 B, 82.0 kB/s)
+2527.399 Info ClientMultiplayerManager.cpp:786: Received mapReadyForDownload
+2527.399 Downloading file /home/obamid/.factorio/temp/mp-download.zip (15368414 B, 30554 blocks)
+2527.402 Info ClientMultiplayerManager.cpp:608: UpdateTick(4294967295) changing state from(ConnectedWaitingForMap) to(ConnectedDownloadingMap)
+2528.283 Finished download (0 s, 15.3 MB, 17.4 MB/s)
+2528.317 Info ClientMultiplayerManager.cpp:766: updateTick(4294967295) map download finished creating scenario
+2528.317 Info ClientMultiplayerManager.cpp:608: UpdateTick(4294967295) changing state from(ConnectedDownloadingMap) to(ConnectedLoadingMap)
+2528.317 Loading map /home/obamid/.factorio/temp/mp-download.zip: 15368414 bytes.
+2528.333 Loading level.dat: 38859494 bytes.
+2528.341 Info Scenario.cpp:199: Map version 1.1.57-1
+2529.011 Loading blueprint storage: Local timestamp 1651276237, Cloud timestamp 1651278358
+2529.011 Loading script.dat: 5773 bytes.
+2529.014 Checksum for script /home/obamid/.factorio/temp/currently-playing/control.lua: 3795083680
+2529.015 Checksum for script __actual-craft-times-remade__/control.lua: 3770996488
+2529.016 Checksum for script __GTTS__/control.lua: 2391048649
+2529.033 Info ClientMultiplayerManager.cpp:608: UpdateTick(14039735) changing state from(ConnectedLoadingMap) to(TryingToCatchUp)
+2529.250 Info ClientMultiplayerManager.cpp:608: UpdateTick(14040115) changing state from(TryingToCatchUp) to(WaitingForCommandToStartSendingTickClosures)
+2529.282 Info ClientMultiplayerManager.cpp:608: UpdateTick(14040115) changing state from(WaitingForCommandToStartSendingTickClosures) to(InGame)
+2529.307 Info GameActionHandler.cpp:4996: UpdateTick (14040120) processed PlayerJoinGame peerID(3) playerIndex(0) mode(connect) 
+2531.283 Info ClientSynchronizer.cpp:335: Latency changed to (12)
+2532.534 Info ClientSynchronizer.cpp:335: Latency changed to (11)
+2541.285 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+2558.786 Info ClientSynchronizer.cpp:335: Latency changed to (11)
+2565.036 Info ClientSynchronizer.cpp:335: Latency changed to (10)
+2583.110 Info ClientMultiplayerManager.cpp:151: Disconnecting multiplayer connection. Reason: Quit.
+2583.110 Info ClientMultiplayerManager.cpp:608: UpdateTick(14053037) changing state from(InGame) to(DisconnectScheduled)
+2583.120 Info ClientMultiplayerManager.cpp:608: UpdateTick(14053037) changing state from(DisconnectScheduled) to(WaitingForDisconnectConfirmation)
+2583.136 Info ClientMultiplayerManager.cpp:608: UpdateTick(14053037) changing state from(WaitingForDisconnectConfirmation) to(Disconnected)
+2583.137 Info ClientMultiplayerManager.cpp:930: Disconnect notification for peer (3)
+2583.256 Info UDPSocket.cpp:218: Closing socket
+2583.256 Info UDPSocket.cpp:248: Socket closed
+2584.499 Quitting: user-quit.
+2584.694 Steam API shutdown.
+2584.698 Goodbye

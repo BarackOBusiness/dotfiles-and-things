@@ -1,0 +1,8 @@
+CMAKE_MAKEFILE_GENERATOR=ninja
+
+# After installing 66 overlay
+CONFIG_PROTECT="${CONFIG_PROTECT} /sbin/init"
+
+ACCEPT_LICENSE="*"
+ACCEPT_KEYWORDS="~amd64"
+VIDEO_CARDS="amdgpu radeon radeonsi"

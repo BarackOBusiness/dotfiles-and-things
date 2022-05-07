@@ -4,8 +4,11 @@
 #
 # Read `man 5 sway` for a complete reference.
 
-### Variables
+### Setup
 #
+# Update dbus environment
+exec --no-startup-id dbus-update-activation-environment --all
+
 # User config directory
 include $HOME/.config/sway/config.d/*
 
@@ -13,12 +16,12 @@ include $HOME/.config/sway/config.d/*
 set $mod Mod4
 
 # Your preferred terminal emulator
-set $term kitty /bin/fish
+set $term kitty
 
 # Your preferred application launcher
 # Note: pass the final command to swaymsg so that the resulting window can be opened
 # on the original workspace that the command was run on.
-set $menu wofi --show drun
+set $menu rofi -modi drun -show drun
 
 ### Output configuration
 #

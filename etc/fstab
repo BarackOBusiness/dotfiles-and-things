@@ -1,0 +1,49 @@
+# /etc/fstab: static file system information.
+#
+# noatime turns off atimes for increased performance (atimes normally aren't 
+# needed); notail increases performance of ReiserFS (at the expense of storage 
+# efficiency).  It's safe to drop the noatime options if you want and to 
+# switch between notail / tail freely.
+#
+# The root filesystem should have a pass number of either 0 or 1.
+# All other filesystems should have a pass number of 0 or greater than 1.
+#
+# See the manpage fstab(5) for more information.
+#
+
+# <fs>			<mountpoint>	<type>		<opts>		<dump/pass>
+
+# NOTE: If your BOOT partition is ReiserFS, add the notail option to opts.
+#
+# NOTE: Even though we list ext4 as the type here, it will work with ext2/ext3
+#       filesystems.  This just tells the kernel to use the ext4 driver.
+#
+# NOTE: You can use full paths to devices like /dev/sda3, but it is often
+#       more reliable to use filesystem labels or UUIDs. See your filesystem
+#       documentation for details on setting a label. To obtain the UUID, use
+#       the blkid(8) command.
+
+
+# /dev/sdb3 UUID=ecc9f2ba-6430-4e1b-9553-2a7b4ca69a98
+UUID=248f88d8-ba86-4ec3-9302-00291bf16d58		/		btrfs		rw,noatime,nodiratime,compress=zstd:3,ssd,space_cache=v2,commit=120,subvolid=256,subvol=/root	0 0
+
+# /dev/sdb3 UUID=ecc9f2ba-6430-4e1b-9553-2a7b4ca69a98
+UUID=248f88d8-ba86-4ec3-9302-00291bf16d58		/mnt/btrfs-top	btrfs		rw,noatime,nodiratime,compress=zstd:3,ssd,space_cache=v2,subvolid=5,subvol=/	0 0
+
+# /dev/sdb3 UUID=ecc9f2ba-6430-4e1b-9553-2a7b4ca69a98
+UUID=248f88d8-ba86-4ec3-9302-00291bf16d58		/home		btrfs		rw,noatime,compress=zstd:3,ssd,space_cache=v2,subvolid=258,subvol=/home	0 0
+
+# /dev/sdb3 UUID=ecc9f2ba-6430-4e1b-9553-2a7b4ca69a98
+UUID=248f88d8-ba86-4ec3-9302-00291bf16d58		/usr/portage	btrfs		rw,noatime,nodiratime,compress=zstd:3,ssd,space_cache=v2,subvolid=259,subvol=/portage	0 0
+
+# /dev/sdb3 UUID=ecc9f2ba-6430-4e1b-9553-2a7b4ca69a98
+UUID=248f88d8-ba86-4ec3-9302-00291bf16d58		/var/cache	btrfs		rw,noatime,nodiratime,compress=zstd:3,ssd,space_cache=v2,subvolid=260,subvol=/cache	0 0
+
+# /dev/sdb3 UUID=ecc9f2ba-6430-4e1b-9553-2a7b4ca69a98
+UUID=248f88d8-ba86-4ec3-9302-00291bf16d58		/.snapshots	btrfs		rw,noatime,nodiratime,compress=zstd:3,ssd,space_cache=v2,subvolid=261,subvol=/snapshots	0 0
+
+# /dev/sdb3 UUID=ecc9f2ba-6430-4e1b-9553-2a7b4ca69a98
+UUID=248f88d8-ba86-4ec3-9302-00291bf16d58		/mnt/data	btrfs		rw,noatime,nodiratime,compress=zstd:3,ssd,space_cache=v2,subvolid=262,subvol=/data	0 0
+
+# /dev/sdb2 UUID=f77b7247-284a-4278-9f79-4453dd431da8
+UUID=02eeaba3-92d4-4338-a1bc-f1c7d21941d3		none		swap		defaults	0 0

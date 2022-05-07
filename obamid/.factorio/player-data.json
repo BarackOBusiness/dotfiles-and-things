@@ -1,0 +1,576 @@
+
+{
+  "available-campaign-levels": 
+  {
+    "demo": 
+    {
+      "level-01": "hard"
+    },
+    "npe": 
+    {
+      "level-01": "hard"
+    },
+    "tight-spot": 
+    {
+      "level-01": "hard"
+    },
+    "transport-belt-madness": 
+    {
+      "level-01": "hard",
+      "level-02": "easy"
+    },
+    "tutorial": 
+    {
+      "level-01": "hard"
+    }
+  },
+  "tips": 
+  {
+    "introduction": 
+    {
+      "status": "completed"
+    },
+    "show-info": 
+    {
+      "status": "completed"
+    },
+    "e-confirm": 
+    {
+      "status": "locked"
+    },
+    "clear-cursor": 
+    {
+      "status": "completed"
+    },
+    "pipette": 
+    {
+      "status": "completed"
+    },
+    "stack-transfers": 
+    {
+      "status": "completed-without-tutorial"
+    },
+    "entity-transfers": 
+    {
+      "status": "completed-without-tutorial"
+    },
+    "z-dropping": 
+    {
+      "status": "completed"
+    },
+    "shoot-targeting": 
+    {
+      "status": "completed"
+    },
+    "bulk-crafting": 
+    {
+      "status": "completed"
+    },
+    "rotating-assemblers": 
+    {
+      "status": "suggested"
+    },
+    "circuit-network": 
+    {
+      "status": "completed"
+    },
+    "inserters": 
+    {
+      "status": "completed"
+    },
+    "burner-inserter-refueling": 
+    {
+      "status": "completed"
+    },
+    "long-handed-inserters": 
+    {
+      "status": "completed"
+    },
+    "move-between-labs": 
+    {
+      "status": "completed"
+    },
+    "insertion-limits": 
+    {
+      "status": "completed"
+    },
+    "limit-chests": 
+    {
+      "status": "completed"
+    },
+    "transport-belts": 
+    {
+      "status": "completed"
+    },
+    "belt-lanes": 
+    {
+      "status": "completed"
+    },
+    "splitters": 
+    {
+      "status": "completed"
+    },
+    "splitter-filters": 
+    {
+      "status": "completed"
+    },
+    "underground-belts": 
+    {
+      "status": "completed"
+    },
+    "electric-network": 
+    {
+      "status": "completed"
+    },
+    "steam-power": 
+    {
+      "status": "completed"
+    },
+    "electric-pole-connections": 
+    {
+      "status": "completed"
+    },
+    "low-power": 
+    {
+      "status": "completed"
+    },
+    "connect-switch": 
+    {
+      "status": "suggested"
+    },
+    "copy-entity-settings": 
+    {
+      "status": "completed"
+    },
+    "copy-paste-trains": 
+    {
+      "status": "completed"
+    },
+    "copy-paste-filters": 
+    {
+      "status": "completed"
+    },
+    "copy-paste-requester-chest": 
+    {
+      "status": "locked",
+      "conditions": 
+      [
+        
+        {},
+        
+        {}
+      ]
+    },
+    "copy-paste-spidertron": 
+    {
+      "status": "locked"
+    },
+    "drag-building": 
+    {
+      "status": "completed"
+    },
+    "drag-building-poles": 
+    {
+      "status": "completed"
+    },
+    "pole-dragging-coverage": 
+    {
+      "status": "completed"
+    },
+    "drag-building-underground-belts": 
+    {
+      "status": "completed"
+    },
+    "fast-belt-bending": 
+    {
+      "status": "completed"
+    },
+    "fast-obstacle-traversing": 
+    {
+      "status": "completed"
+    },
+    "trains": 
+    {
+      "status": "completed"
+    },
+    "rail-building": 
+    {
+      "status": "completed"
+    },
+    "train-stops": 
+    {
+      "status": "completed-without-tutorial"
+    },
+    "rail-signals-basic": 
+    {
+      "status": "completed-without-tutorial"
+    },
+    "rail-signals-advanced": 
+    {
+      "status": "locked",
+      "conditions": 
+      [
+        
+        {},
+        
+        {}
+      ]
+    },
+    "gate-over-rail": 
+    {
+      "status": "locked",
+      "conditions": 
+      [
+        
+        {
+          "triggered": true
+        },
+        
+        {},
+        
+        {
+          "triggered": true
+        }
+      ]
+    },
+    "pump-connection": 
+    {
+      "status": "completed"
+    },
+    "train-stop-same-name": 
+    {
+      "status": "locked",
+      "count": 3
+    },
+    "logistic-network": 
+    {
+      "status": "completed"
+    },
+    "personal-logistics": 
+    {
+      "status": "completed"
+    },
+    "construction-robots": 
+    {
+      "status": "completed"
+    },
+    "passive-provider-chest": 
+    {
+      "status": "completed"
+    },
+    "storage-chest": 
+    {
+      "status": "completed"
+    },
+    "requester-chest": 
+    {
+      "status": "completed"
+    },
+    "active-provider-chest": 
+    {
+      "status": "completed"
+    },
+    "buffer-chest": 
+    {
+      "status": "completed"
+    },
+    "ghost-building": 
+    {
+      "status": "completed"
+    },
+    "ghost-rail-planner": 
+    {
+      "status": "locked",
+      "conditions": 
+      [
+        
+        {
+          "conditions": 
+          [
+            
+            {},
+            
+            {},
+            
+            {}
+          ]
+        },
+        
+        {}
+      ]
+    },
+    "copy-paste": 
+    {
+      "status": "suggested"
+    },
+    "fast-replace": 
+    {
+      "status": "completed"
+    },
+    "fast-replace-direction": 
+    {
+      "status": "completed"
+    },
+    "fast-replace-belt-splitter": 
+    {
+      "status": "completed"
+    },
+    "fast-replace-belt-underground": 
+    {
+      "status": "suggested"
+    }
+  },
+  "console-history": 
+  [
+    "kekw",
+    "OK",
+    "SAME EXACT PROBLEM",
+    "there I just made priority input",
+    "OK NOW NO GEAR WHEELS WHY DID YOU TAKE THAT MUFH",
+    "ok its probably fine",
+    "fucking I knew I shouldn't have done this design",
+    "gimme a sec",
+    "GENUS",
+    "time to get taken into the science.,",
+    "uhh we can make a solid fuel bus which has 12 MJ energy value and is probably more suited for machines anyway",
+    "but idk if the energy cost is any less than coal, and we still need coal at the end of the day for doing shit with chemicals anyway",
+    "lesgo 10 GJ per hour of solar panel production just got that achievement",
+    "its a vast improvement",
+    "just positioned wrongly",
+    "bruhing",
+    "its because the solid fuel production",
+    "yeah, that's why we need circuit network signals to control production into other things",
+    "yeah I just flushed the tank",
+    "thats why things are working now",
+    "oh I was about to say im gonna start a guilded call and you can join whenever you want but getting back works too",
+    "here is the great deconstruction storage",
+    "power usage down to a new low of 4.5 MW !",
+    "we must replace everything",
+    "we have produced enough electric furnaces",
+    "they will take more space",
+    "they were temporary endpoints to products that we needed a bunch of",
+    "which we now have excess",
+    "also the good thing about this is that our pollution is going to get eaten up in the meantime",
+    "gaming belts",
+    "also feed those old belts back into the red belt machines directly",
+    "recycling.",
+    "so what are your opinions on having mining separated from smelting, like we could have a modular mining base that directs over to a smelting facility that gets taken somewhere else to be put on a production bus or something",
+    "yeah, probably what we're gonna have to do, since eventually resource patches will run out, and adding train stops to resource trains is a pretty easy task",
+    "we could probably put smelting facility directly below us since there seems to be quite a bit of empty space",
+    "or threat free rather",
+    "ok I just like doubled the iron throughput into the red belt assembly by removing the bottlenecks in transport",
+    "also we're probably not keeping that chemical facility so don't get too attached to it I'm probably too late to saying that",
+    "theres 900 more",
+    "there we go",
+    "now this is beautiful",
+    "brb gonna eat now",
+    "[recipe=solid-fuel-from-heavy-oil]",
+    "[entity=item-request-proxy]",
+    "[entity=biter-spawner]",
+    "there's too much possibility I have like absolutely no idea where to go from here",
+    "I was working on prioritizing the oil train earlier because that's where refueling would have to happen, but it also could happen off site",
+    "well we can just rid ourselves of boilers for now",
+    "solar panels are more than enough, including what we have in chests",
+    "uhh since we're in a no consumption period right now that would be the most optimal time to do it",
+    "yeah sure",
+    "I was planning on making a big resource income station here, bringing it up or down to smelters, then taking it back and feeding it into a main bus",
+    "buss",
+    "ok",
+    "thinking about red...",
+    "The iron shortage does provide a good thinking point though",
+    "we need to design the trains so that it can accept multiple resource inputs",
+    "going to disassemble this automation here and turn all of this into refueling station",
+    "well yeah",
+    "simple we just uhh don't need it right now",
+    "alright now here's the deal, we crack heavy oil into light, and we crack petroleum into light, all of it goes to rocket fuel",
+    "it's literally the recipe name but ok",
+    "doing the calculating currently",
+    "oh you can't crack petroleum gas to light oil",
+    "I guess we'll just make solid fuel out of it",
+    "no",
+    "I guess it's more efficient to just directly make heavy into solid fuel too...",
+    "I guess light will only be used in final process for rocket conversion",
+    "3.75 temporary number storage",
+    "alright...  to fully convert this all to rocket fuel, we'll need 62 assembling machine 2's, 31 chemical plants",
+    "11 chem for petroleum, 5 for heavy, and 15 for light",
+    "not permanent positions just laying out what I have",
+    "annd that's all",
+    "game",
+    "nope",
+    "there's no iron in any of the chests",
+    "it would've showed there",
+    "ok why not just mine the rest of the iron patch while we're at it so we have more excuse to move to the other one :tf:",
+    "e",
+    "uhh you wanna vc instead",
+    "crazy",
+    "ok apparently the oil yields are way down",
+    "take a look",
+    "everythings cut in half",
+    "expected resources is half of what it used to be for every one of these jacks",
+    "we only have about 26/s now, about what used to be one pumpjack",
+    "so uhh well at least I can downscale this facility now",
+    "great thinking head of business I've got.",
+    "lemme do the actual defined math",
+    "ok 46.9, a little more respectable than I thought, I think I missed the last big one",
+    "and apparently it seems to be about the same production as before...... just 9 oil refineries allowed instead of 10?",
+    "this has to be due to tick rate",
+    "LMAO OK",
+    "man everything turned on fast",
+    "YEP",
+    "if this game had the minecraft community people would make blender renders of that",
+    "He still hasn't made the antarctica wall footage",
+    "wait a minute",
+    "I'm FUCKING STUPID",
+    "this all needs light oil"
+  ],
+  "last-played": 
+  {
+    "type": "joined-multiplayer",
+    "server-name": "",
+    "server": 
+    {
+      "address": 
+      {
+        "type": "socket",
+        "name": "127.0.0.1"
+      },
+      "non-steam-address": 
+      {
+        "type": "socket",
+        "name": ""
+      },
+      "password-hash": "",
+      "server-hash": "UkqIyCe59Gxvt5xPTea7w0nbRNNvje2M"
+    }
+  },
+  "latest-multiplayer-connections": 
+  [
+    
+    {
+      "address": "127.0.0.1"
+    },
+    
+    {
+      "address": "obamids.mooo.com"
+    },
+    
+    {
+      "address": "192.168.1.194"
+    },
+    
+    {
+      "address": "obamidservers.mooo.com"
+    }
+  ],
+  "service-username": "The_head_obamid",
+  "service-token": "4b25044ffee00729e308ad5c083986",
+  "shortcut-bar": 
+  [
+    
+    {
+      "name": "toggle-alt-mode",
+      "docked": true,
+      "enabled": true
+    },
+    
+    {
+      "name": "undo",
+      "docked": true,
+      "enabled": true
+    },
+    
+    {
+      "name": "copy",
+      "docked": true,
+      "enabled": true
+    },
+    
+    {
+      "name": "cut",
+      "docked": true,
+      "enabled": true
+    },
+    
+    {
+      "name": "paste",
+      "docked": true,
+      "enabled": true
+    },
+    
+    {
+      "name": "import-string",
+      "docked": true,
+      "enabled": true
+    },
+    
+    {
+      "name": "give-blueprint",
+      "docked": true,
+      "enabled": true
+    },
+    
+    {
+      "name": "give-blueprint-book",
+      "docked": true,
+      "enabled": true
+    },
+    
+    {
+      "name": "give-deconstruction-planner",
+      "docked": true,
+      "enabled": true
+    },
+    
+    {
+      "name": "give-upgrade-planner",
+      "docked": true,
+      "enabled": true
+    },
+    
+    {
+      "name": "toggle-personal-roboport",
+      "docked": true,
+      "enabled": true
+    },
+    
+    {
+      "name": "toggle-equipment-movement-bonus",
+      "docked": true,
+      "enabled": true
+    }
+  ],
+  "editor-lua-snippets": 
+  [
+    
+    {
+      "name": "Example (Turn trees into biters)",
+      "code": "local surface = game.player.surface\nlocal entities = surface.find_entities_filtered{area = area, type = 'tree'}\nfor k, tree in pairs(entities) do\n  local position = tree.position\n  tree.destroy()\n  surface.create_entity{name = 'small-biter', position = position}\nend"
+    }
+  ],
+  "last-played-version": 
+  {
+    "game_version": "1.1.57",
+    "build_version": 59622,
+    "build_mode": "steam",
+    "platform": "linux64"
+  },
+  "blueprint-view": "grid",
+  "main-menu-simulations-played": 
+  [
+    "forest_fire",
+    "biter_base_artillery",
+    "train_junction",
+    "biter_base_steamrolled",
+    "nuclear_power",
+    "brutal_defeat",
+    "mining_defense",
+    "oil_pumpjacks",
+    "train_station",
+    "artillery",
+    "oil_refinery",
+    "spider_ponds",
+    "biter_base_player_attack",
+    "solar_power_construction",
+    "biter_base_laser_defense"
+  ]
+}

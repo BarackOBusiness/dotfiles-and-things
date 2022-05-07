@@ -10,7 +10,8 @@ exec mako
 exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 
 # Easyeffects startup
-exec easyeffects --gapplication-service
+# exec easyeffects --gapplication-service
+# No matter how hard I try never works apparently
 
 # Music Player Daemon
 exec mpd

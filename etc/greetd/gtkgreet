@@ -1,0 +1,9 @@
+output HDMI-A-2 bg /etc/greetd/Wallpaper.png fill
+
+exec "gtkgreet -l; swaymsg exit"
+
+bindsym Mod4+shift+e exec swaynag \
+	-t warning \
+	-m 'What do you want to do?' \
+	-b 'Poweroff' 'systemctl poweroff' \
+	-b 'Reboot' 'systemctl reboot'

@@ -1,3 +1,0 @@
-output * bg /etc/greetd/Wallpaper.png fill
-
-exec "wlgreet --command /etc/greetd/sway.sh"
