@@ -33,7 +33,6 @@ install [fonts](https://github.com/ryanoasis/nerd-fonts), mononoki, fira code
 Remember to modularize system config as much as possible, try not to pollute the environment with tons of global use flags.\
 For example, I had the desktop environment put in a `desktop-env` package.use file with all the components of sway there.
 
-
 **Global Use flags for inspiration**
 ___
 USE="graphite lto asm default-compiler-rt default-lld llvm-libunwind pie \
@@ -48,3 +47,7 @@ wayland X network wifi bluetooth pulseaudio screencast libnotify \
 - [Revolt](https://github.com/revoltchat/desktop) (Follow aur to install (make ebuild as well))
 - Azote - included in [the-obamids](https://github.com/The-head-obamid/the-obamids)
 - [nwg-look](https://github.com/nwg-piotr/nwg-look)
+- [nnn](https://github.com/jarun/nnn)
+
+## Extra considerations
+- [Riverwm](https://wiki.gentoo.org/wiki/River)
