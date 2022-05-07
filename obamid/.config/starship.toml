@@ -8,7 +8,7 @@ show_always = true
 
 # Second param
 [hostname]
-format = "[Work]($style) in "
+format = "[Gentoo]($style) in "
 style = "bold #6a38f1"
 trim_at = "-"
 ssh_only = false
@@ -66,9 +66,10 @@ time_format = "%T"
 style = "bright-white"
 disabled = true
 
+# 💼
 # Prompt: param 2 └─
 [character]
-success_symbol = " [╰─💼](bold #a752ff)"
+success_symbol = " [╰─>>>](bold #a752ff)"
 error_symbol = " [×](bold #f752ff)"
 
 # SYMBOLS
