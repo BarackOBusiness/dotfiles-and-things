@@ -1,10 +1,8 @@
-# Some instructions for future me
-
 **VOID LINUX DREAM IS DEAD**\
 **INSTALLATION IS FUEL**\
 **GENTOO IS FULL**
 
-## Things to install
+# Instructions for future me.
 
 Game plan: [Install gentoo](https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/About) under the following criteria:
 * Uses [gentoobry overlay](https://github.com/gentoobr/overlay) for xanmod sources
