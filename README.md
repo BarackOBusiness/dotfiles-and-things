@@ -33,15 +33,15 @@ install [fonts](https://github.com/ryanoasis/nerd-fonts), mononoki, fira code
 
 ## Some tips
 Remember to modularize system config as much as possible, try not to pollute the environment with tons of global use flags.\
-For example, I had the desktop environment put in a `desktop-env` package.use file with all the components of sway there.\
+For example, I had the desktop environment put in a `desktop-env` package.use file with all the components of sway there.
 
 
 **Global Use flags for inspiration**
 ___
-USE="graphite lto asm default-compiler-rt default-lld llvm-libunwind pie 
-btrfs initramfs tasktype 
-man dbus elogind -systemd egl vulkan opengl openal 
-wayland X network wifi bluetooth pulseaudio screencast libnotify 
+USE="graphite lto asm default-compiler-rt default-lld llvm-libunwind pie \
+btrfs initramfs tasktype \
+man dbus elogind -systemd egl vulkan opengl openal \
+wayland X network wifi bluetooth pulseaudio screencast libnotify \
 10bit vdpau v4l lv2 threads jpegxl avif webp jpeg jpeg2k fdk opus dav1d openh264"
 
 # Things for the user experience
