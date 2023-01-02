@@ -1,0 +1,10 @@
+#!/bin/bash
+
+export XDG_SESSION_TYPE=wayland
+export GDK_BACKEND=wayland
+export QT_QPA_PLATFORM=wayland
+export QT_QPA_PLATFORMTHEME=qt5ct
+export MOZ_ENABLE_WAYLAND=1
+export XCURSOR_SIZE=24
+
+sway --config /etc/greetd/gtkgreet

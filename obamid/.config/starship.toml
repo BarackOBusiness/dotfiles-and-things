@@ -1,18 +1,18 @@
 ## FIRST LINE/ROW: Info & Status
 # First param ─┌
 [username]
-format = " [╭─Obamid]($style)@"
-style_user = "bold #a752ff" #832aff
+format = " [╭─]($style)"  # " [╭─Obamid]($style)[@](#dd99dd)"
+style_user = "bold #bf50ff" #832aff
 style_root = "bold brred"
 show_always = true
-
-# Second param
-[hostname]
-format = "[Gentoo]($style) in "
-style = "bold #6a38f1"
-trim_at = "-"
-ssh_only = false
-disabled = false
+# 
+# # Second param
+# [hostname]
+# format = "[Gentoo]($style) in "
+# style = "bold #ca40dd"
+# trim_at = "-"
+# ssh_only = false
+# disabled = false
 
 # Third param
 [directory]
@@ -69,7 +69,7 @@ disabled = true
 # 💼
 # Prompt: param 2 └─
 [character]
-success_symbol = " [╰─>>>](bold #a752ff)"
+success_symbol = " [╰─>>>](bold #bf50ff)"
 error_symbol = " [×](bold #f752ff)"
 
 # SYMBOLS

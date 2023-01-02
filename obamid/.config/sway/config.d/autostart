@@ -1,20 +1,18 @@
 # Starting audio server
-exec pipewire
-exec pipewire-pulse
-exec wireplumber
+exec gentoo-pipewire-launcher
 
 # Notifications
 exec mako
 
-# Authentication agent for gay things
-exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
+# Foot server for ram reduction in terminal applications
+exec foot --server
 
-# Easyeffects startup
-# exec easyeffects --gapplication-service
-# No matter how hard I try never works apparently
+# Authentication agent for gay things - replaced by keepassXC hopefully
+# exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 
-# Music Player Daemon
+# Music Player Daemon - have right now
 exec mpd
 
-# Automatic temperature setting 
-# exec ~/.config/sway/scripts/light.sh
+# Automatic temperature setting - needs wlsunset, not sure if I actually want to have night setting
+# The answer turned out to be yes...  I do, I do very much
+exec ~/.config/sway/scripts/light.sh

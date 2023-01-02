@@ -5,47 +5,15 @@
  * Configuration reference: https://github.com/Alexays/Waybar/wiki/Configuration
  *
  * =========================================================================== */
- 
-/* -----------------------------------------------------------------------------
- * Keyframes
- * -------------------------------------------------------------------------- */
 
-
-/*
-Polar Night
-nord0  #2e3440
-nord1  #3b4252
-nord2  #434c5e
-nord3  #4c566a
-Snow Storm
-nord4  #d8dee9
-nord5  #e5e9f0
-nord6  #eceff4
-Frost
-nord7  #8fbcbb
-nord8  #88c0d0
-nord9  #81a1c1
-nord10 #5e81ac
-Aurora
-nord11 #bf616a
-nord12 #d08770
-nord13 #ebcb8b
-nord14 #a3be8c
-nord15 #b48ead
-*/
-
-/* -----------------------------------------------------------------------------
- * Base styles
- * -------------------------------------------------------------------------- */
- 
-/* Reset all styles */
+@import "mocha.css";
 
 * {
     color: #e5e7eb;
     border: 0;
     border-radius: 0;
     padding: 0 0;
-    font-family:Fira Sans;
+    font-family: "Fira Sans";
     font-size: 14;
     margin-right: 5px;
     margin-left: 5px;
@@ -54,7 +22,7 @@ nord15 #b48ead
 
 window#waybar {
     /* background:#2e3440; */
-    background:#222428;
+    background: @base;
 }
 
 #workspaces button {
@@ -84,21 +52,16 @@ window#waybar {
  * Module styles
  * -------------------------------------------------------------------------- */
 
+#idle_inhibitor {
+	color: @rosewater;
+}
  
 #clock {
- color:#a3be8c;
+	color: @lavender;
 }
 
 #backlight {
     color: #ebcb8b;
-}
-
-#battery {
-    color: #d8dee9;
-}
-
-#battery.charging {
-    color: #81a1c1;
 }
 
 @keyframes blink {
@@ -119,11 +82,11 @@ window#waybar {
 }
 
 #cpu {
-    color:#a3be8c ;
+    color: @mauve;
 }
 
 #memory {
-    color: #d3869b;
+    color: @lavender;
 }
 
 #network.disabled {
@@ -131,7 +94,7 @@ window#waybar {
 }
 
 #network{
-    color:#a3be8c;
+    color: @lavender;
 }
 
 #network.disconnected {
@@ -139,7 +102,7 @@ window#waybar {
 }
 
 #pulseaudio {
-    color: #b48ead;
+    color: @mauve;
 }
 
 #pulseaudio.muted {

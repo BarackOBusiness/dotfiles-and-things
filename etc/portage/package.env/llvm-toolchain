@@ -1,0 +1,8 @@
+sys-devel/llvm clang-safe
+sys-libs/libcxx clang-safe
+sys-libs/libcxxabi clang-safe
+sys-libs/compiler-rt clang-safe
+sys-libs/compiler-rt-sanitizers clang-safe
+sys-libs/llvm-libunwind clang-safe
+sys-devel/lld clang-safe
+sys-devel/clang clang-safe

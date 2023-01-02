@@ -25,25 +25,25 @@
 
 
 # /dev/sdb3 UUID=ecc9f2ba-6430-4e1b-9553-2a7b4ca69a98
-UUID=248f88d8-ba86-4ec3-9302-00291bf16d58		/		btrfs		rw,noatime,nodiratime,compress=zstd:3,ssd,space_cache=v2,commit=120,subvolid=256,subvol=/root	0 0
+UUID=		/		btrfs		rw,noatime,nodiratime,compress=zstd:3,ssd,space_cache=v2,commit=120,subvolid=256,subvol=/root	0 0
 
 # /dev/sdb3 UUID=ecc9f2ba-6430-4e1b-9553-2a7b4ca69a98
-UUID=248f88d8-ba86-4ec3-9302-00291bf16d58		/mnt/btrfs-top	btrfs		rw,noatime,nodiratime,compress=zstd:3,ssd,space_cache=v2,subvolid=5,subvol=/	0 0
+UUID=		/mnt/btrfs-top	btrfs		rw,noatime,nodiratime,compress=zstd:3,ssd,space_cache=v2,subvolid=5,subvol=/	0 0
 
 # /dev/sdb3 UUID=ecc9f2ba-6430-4e1b-9553-2a7b4ca69a98
-UUID=248f88d8-ba86-4ec3-9302-00291bf16d58		/home		btrfs		rw,noatime,compress=zstd:3,ssd,space_cache=v2,subvolid=258,subvol=/home	0 0
+UUID=		/home		btrfs		rw,noatime,compress=zstd:3,ssd,space_cache=v2,subvolid=258,subvol=/home	0 0
 
 # /dev/sdb3 UUID=ecc9f2ba-6430-4e1b-9553-2a7b4ca69a98
-UUID=248f88d8-ba86-4ec3-9302-00291bf16d58		/usr/portage	btrfs		rw,noatime,nodiratime,compress=zstd:3,ssd,space_cache=v2,subvolid=259,subvol=/portage	0 0
+UUID=		/usr/portage	btrfs		rw,noatime,nodiratime,compress=zstd:3,ssd,space_cache=v2,subvolid=259,subvol=/portage	0 0
 
 # /dev/sdb3 UUID=ecc9f2ba-6430-4e1b-9553-2a7b4ca69a98
-UUID=248f88d8-ba86-4ec3-9302-00291bf16d58		/var/cache	btrfs		rw,noatime,nodiratime,compress=zstd:3,ssd,space_cache=v2,subvolid=260,subvol=/cache	0 0
+UUID=		/var/cache	btrfs		rw,noatime,nodiratime,compress=zstd:3,ssd,space_cache=v2,subvolid=260,subvol=/cache	0 0
 
 # /dev/sdb3 UUID=ecc9f2ba-6430-4e1b-9553-2a7b4ca69a98
-UUID=248f88d8-ba86-4ec3-9302-00291bf16d58		/.snapshots	btrfs		rw,noatime,nodiratime,compress=zstd:3,ssd,space_cache=v2,subvolid=261,subvol=/snapshots	0 0
+UUID=		/.snapshots	btrfs		rw,noatime,nodiratime,compress=zstd:3,ssd,space_cache=v2,subvolid=261,subvol=/snapshots	0 0
 
 # /dev/sdb3 UUID=ecc9f2ba-6430-4e1b-9553-2a7b4ca69a98
-UUID=248f88d8-ba86-4ec3-9302-00291bf16d58		/mnt/data	btrfs		rw,noatime,nodiratime,compress=zstd:3,ssd,space_cache=v2,subvolid=262,subvol=/data	0 0
+UUID=		/mnt/data	btrfs		rw,noatime,nodiratime,compress=zstd:3,ssd,space_cache=v2,subvolid=262,subvol=/data	0 0
 
 # /dev/sdb2 UUID=f77b7247-284a-4278-9f79-4453dd431da8
-UUID=02eeaba3-92d4-4338-a1bc-f1c7d21941d3		none		swap		defaults	0 0
+UUID=		none		swap		defaults	0 0

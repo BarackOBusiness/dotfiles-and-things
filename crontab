@@ -1,0 +1,1 @@
+@daily if [ $(curl -s ifconfig.me) != $(cat ~/.ip) ]; then echo $(curl -s ifconfig.me) > ~/.ip && wget --no-check-certificate -O - <INSERT_FREEDNS_AUTO_UPDATE_URL_HERE> >> /tmp/freedns_b_usiness_mooo_com.log 2>&1 & && wget --no-check-certificate -O - <DO_THE_SAME_HERE> >> /tmp/freedns_bus_iness_mooo_com.log 2>&1 &; fi

@@ -16,12 +16,14 @@ include $HOME/.config/sway/config.d/*
 set $mod Mod4
 
 # Your preferred terminal emulator
-set $term kitty
+set $term footclient
 
 # Your preferred application launcher
 # Note: pass the final command to swaymsg so that the resulting window can be opened
 # on the original workspace that the command was run on.
 set $menu rofi -modi drun -show drun
+
+set $calc rofi -no-config -modi calc -show calc -no-show-match -no-sort
 
 ### Output configuration
 #
@@ -72,6 +74,9 @@ exec swayidle -w \
     # Start your launcher
     bindsym $mod+d exec $menu
 
+	# Start 
+    bindsym $mod+c exec $calc
+
     # Drag floating windows by holding down $mod and left mouse button.
     # Resize them with right mouse button + $mod.
     # Despite the name, also works for non-floating windows.
@@ -81,6 +86,9 @@ exec swayidle -w \
 
     # Reload the configuration file
     bindsym $mod+Shift+c reload
+
+	# Dismiss notifications
+	bindsym $mod+space exec makoctl dismiss
 
     # Exit sway (logs you out of your Wayland session)
     bindsym $mod+Shift+e exec swaynag -t warning -m 'You pressed the exit shortcut. Do you really want to exit sway? This will end your Wayland session.' -b 'Yes, exit sway' 'swaymsg exit'
@@ -151,7 +159,7 @@ exec swayidle -w \
     bindsym $mod+Shift+space floating toggle
 
     # Swap focus between the tiling area and the floating area
-    bindsym $mod+space focus mode_toggle
+    #bindsym $mod+space focus mode_toggle
 
     # Move focus to the parent container
     bindsym $mod+a focus parent
@@ -191,6 +199,6 @@ bindsym $mod+r mode "resize"
 
 # Remember to put in grimshot and clipboard selection and shit
 
-	bindsym $mod+Print exec grimshot save screen
+	bindsym $mod+Print exec jxlscr
 	bindsym $mod+Shift+s exec grimshot copy area 
 	bindsym Print exec grimshot copy screen

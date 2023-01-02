@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# We shouldn't need this, the /etc/modules or whatever should just load it, but I'll put it here just in case
+
+modprobe v4l2loopback

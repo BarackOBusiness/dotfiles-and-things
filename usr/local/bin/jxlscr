@@ -1,0 +1,13 @@
+#!/bin/bash
+
+USERSCRDIR=/home/$(whoami)/Pictures/Screenshots
+
+if [ ! -d $USERSCRDIR ]; then
+    mkdir -p $USERSCRDIR
+fi
+
+grimshot --cursor save screen $USERSCRDIR/tmp.png
+
+cjxl -e 8 -d 0 $USERSCRDIR/tmp.png $USERSCRDIR/$(date -Ins).jxl
+# For size comparison, comment out this line
+rm $USERSCRDIR/tmp.png

@@ -1,0 +1,12 @@
+#!/bin/bash
+
+export VK_ICD_FILENAMES=/usr/share/vulkan/icd.d/radeon_icd.x86_64.json
+export DISABLE_VK_LAYER_TORKEL104_libstrangle=1
+export DISABLE_MANGOAPP=1
+export DISABLE_MANGOHUD=1
+
+# export OBS_VKCAPTURE=1
+
+gamescope -e -W 1920 -w 1920 -H 1080 -h 1080 -r 144 -O DP-1 \
+	--immediate-flips --adaptive-sync -- \
+	steam -tenfoot -gamepadui 2>&1 | tee tmp/gamescope.log

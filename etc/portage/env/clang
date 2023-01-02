@@ -1,0 +1,26 @@
+# Sets the compiler to clang
+CC="clang"
+CXX="clang++"
+
+# Needed by libtool
+LD="ld.lld"
+
+# Use LLVM-provided binutils
+AR="llvm-ar"
+AS="llvm-as"
+NM="llvm-nm"
+STRIP="llvm-strip"
+RANLIB="llvm-ranlib"
+OBJCOPY="llvm-objcopy"
+STRINGS="llvm-strings"
+OBJDUMP="llvm-objdump"
+READELF="llvm-readelf"
+ADDR2LINE="llvm-addr2line"
+
+## Hardening flags
+_HARDENING_FLAGS="-fPIC -fstack-protector-strong -D_FORTIFY_SOURCE=2"
+_HARDENING_LDFLAGS="-Wl,-z,relro,-z,now -pie"
+
+CFLAGS="-march=native -O3 -flto=thin ${_HARDENING_FLAGS} -pipe"
+CXXFLAGS="-march=native -O3 -flto=thin ${_HARDENING_FLAGS} -pipe"
+LDFLAGS="${_HARDENING_LDFLAGS} -Wl,-O2 -Wl,--as-needed"

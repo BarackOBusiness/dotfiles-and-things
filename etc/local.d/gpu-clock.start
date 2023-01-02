@@ -1,0 +1,12 @@
+#!/bin/bash
+
+sh -c "echo 's 7 1700 1110' > /sys/devices/pci0000:00/0000:00:03.1/0000:0d:00.0/0000:0e:00.0/0000:0f:00.0/pp_od_clk_voltage"
+sh -c "echo 's 6 1560 1080' > /sys/devices/pci0000:00/0000:00:03.1/0000:0d:00.0/0000:0e:00.0/0000:0f:00.0/pp_od_clk_voltage"
+sh -c "echo 's 5 1400 1050' > /sys/devices/pci0000:00/0000:00:03.1/0000:0d:00.0/0000:0e:00.0/0000:0f:00.0/pp_od_clk_voltage"
+sh -c "echo 's 4 1200 1020' > /sys/devices/pci0000:00/0000:00:03.1/0000:0d:00.0/0000:0e:00.0/0000:0f:00.0/pp_od_clk_voltage"
+sh -c "echo 's 3 1140 980' > /sys/devices/pci0000:00/0000:00:03.1/0000:0d:00.0/0000:0e:00.0/0000:0f:00.0/pp_od_clk_voltage"
+sh -c "echo 'm 3 1050 1060' > /sys/devices/pci0000:00/0000:00:03.1/0000:0d:00.0/0000:0e:00.0/0000:0f:00.0/pp_od_clk_voltage"
+sh -c "echo 'm 2 850 925' > /sys/devices/pci0000:00/0000:00:03.1/0000:0d:00.0/0000:0e:00.0/0000:0f:00.0/pp_od_clk_voltage"
+sh -c "echo 'c' > /sys/devices/pci0000:00/0000:00:03.1/0000:0d:00.0/0000:0e:00.0/0000:0f:00.0/pp_od_clk_voltage"
+
+sleep 5
