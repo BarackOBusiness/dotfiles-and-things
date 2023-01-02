@@ -50,3 +50,937 @@ Mar 23 14:42 : exception: Failed to decode /home/obamid/Music/Trance & Psytrance
 Mar 23 14:42 : player: played "Trance & Psytrance/Dear Eternity.opus"
 Mar 31 17:41 : exception: Failed to commit /home/obamid/.config/mpd/.mpd/state: File exists
 Apr 01 21:11 : exception: Failed to commit /home/obamid/.config/mpd/.mpd/state: File exists
+Aug 30 16:24 : exception: Failed to commit /home/obamid/.config/mpd/.mpd/state: File exists
+Oct 03 15:50 : update: added archives/chaos-order/Heaven Pierce Her - ULTRAKILL- CHAOS-ORDER - 01 The Spinal Staircase.flac
+Oct 03 15:50 : update: added archives/chaos-order/Heaven Pierce Her - ULTRAKILL- CHAOS-ORDER - 02 CHAOS.flac
+Oct 03 15:50 : update: added archives/chaos-order/Heaven Pierce Her - ULTRAKILL- CHAOS-ORDER - 03 ORDER.flac
+Oct 03 15:50 : update: added archives/chaos-order/Heaven Pierce Her - ULTRAKILL- CHAOS-ORDER - 04 Sunshine (Mirage).flac
+Oct 03 15:50 : update: added archives/deep-blue/Heaven Pierce Her - ULTRAKILL- DEEP BLUE - 01 Deep Blue.flac
+Oct 03 15:50 : update: added archives/deep-blue/Heaven Pierce Her - ULTRAKILL- DEEP BLUE - 02 Deep Blue (Calm Loop).flac
+Oct 03 15:50 : update: added archives/deep-blue/Heaven Pierce Her - ULTRAKILL- DEEP BLUE - 03 Deep Blue (Combat Loop).flac
+Oct 03 15:50 : update: added archives/greed/Heaven Pierce Her - ULTRAKILL- GREED - 01 -Insert Disc 2-.flac
+Oct 03 15:50 : update: added archives/greed/Heaven Pierce Her - ULTRAKILL- GREED - 02 Dune Eternal.flac
+Oct 03 15:50 : update: added archives/greed/Heaven Pierce Her - ULTRAKILL- GREED - 03 Sands of Tide.flac
+Oct 03 15:50 : update: added archives/greed/Heaven Pierce Her - ULTRAKILL- GREED - 04 Dancer in the Darkness.flac
+Oct 03 15:50 : update: added archives/greed/Heaven Pierce Her - ULTRAKILL- GREED - 05 Duel (Versus Reprise).flac
+Oct 03 15:50 : update: added /Tokyo Utopia Tsushin.opus
+Oct 03 15:50 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Oct 03 15:50 : player: played "Tokyo Utopia Tsushin.opus"
+Oct 03 15:53 : player: played "archives/chaos-order/Heaven Pierce Her - ULTRAKILL- CHAOS-ORDER - 01 The Spinal Staircase.flac"
+Oct 03 15:53 : player: played "archives/chaos-order/Heaven Pierce Her - ULTRAKILL- CHAOS-ORDER - 01 The Spinal Staircase.flac"
+Oct 03 15:53 : player: played "archives/chaos-order/Heaven Pierce Her - ULTRAKILL- CHAOS-ORDER - 02 CHAOS.flac"
+Oct 03 15:57 : player: played "archives/chaos-order/Heaven Pierce Her - ULTRAKILL- CHAOS-ORDER - 02 CHAOS.flac"
+Oct 04 07:17 : update: removing Tokyo Utopia Tsushin.opus
+Oct 04 07:17 : update: added /Tokyo Utopia Tsushin.webm
+Oct 04 07:23 : update: added Lamp/Lamp「Tokyo Utopia Tsushin」【東京ユウトピア通信】 (2011) [w673bAlDyew].webm
+Oct 04 07:23 : update: added Lamp/Lamp「Tokyo Utopia Tsushin」【東京ユウトピア通信】 (2011) - 001 01 - 空想夜間飛行 [w673bAlDyew].webm
+Oct 04 07:23 : update: added Lamp/Lamp「Tokyo Utopia Tsushin」【東京ユウトピア通信】 (2011) - 002 02 - 君が泣くなら [w673bAlDyew].webm
+Oct 04 07:23 : update: added Lamp/Lamp「Tokyo Utopia Tsushin」【東京ユウトピア通信】 (2011) - 003 03 - 冷ややかな情景 [w673bAlDyew].webm
+Oct 04 07:23 : update: added Lamp/Lamp「Tokyo Utopia Tsushin」【東京ユウトピア通信】 (2011) - 004 04 - 遠い旅路 [w673bAlDyew].webm
+Oct 04 07:23 : update: added Lamp/Lamp「Tokyo Utopia Tsushin」【東京ユウトピア通信】 (2011) - 005 05 - 君とぼくとのさよならに [w673bAlDyew].webm
+Oct 04 07:23 : update: added Lamp/Lamp「Tokyo Utopia Tsushin」【東京ユウトピア通信】 (2011) - 006 06 - 心の窓辺に赤い花を飾って [w673bAlDyew].webm
+Oct 04 07:23 : update: added Lamp/Lamp「Tokyo Utopia Tsushin」【東京ユウトピア通信】 (2011) - 007 07 - ムード・ロマンティカ [w673bAlDyew].webm
+Oct 04 07:23 : update: added Lamp/Lamp「Tokyo Utopia Tsushin」【東京ユウトピア通信】 (2011) - 008 08 - 恋人と雨雲 [w673bAlDyew].webm
+Oct 04 07:23 : update: added Lamp/bruh.opus
+Oct 04 07:24 : update: updating Lamp/bruh.opus
+Oct 04 07:25 : update: updating Lamp/bruh.opus
+Oct 04 07:27 : update: updating Lamp/bruh.opus
+Oct 04 07:36 : update: updating Lamp/bruh.opus
+Oct 04 07:36 : player: played "archives/greed/Heaven Pierce Her - ULTRAKILL- GREED - 05 Duel (Versus Reprise).flac"
+Oct 04 07:40 : update: updating Lamp/bruh.opus
+Oct 04 07:41 : update: updating Lamp/bruh.opus
+Oct 04 07:42 : update: updating Lamp/bruh.opus
+Oct 04 07:43 : update: removing Lamp/bruh.opus
+Oct 04 07:43 : update: added Lamp/01 - 空想夜間飛行.opus
+Oct 04 07:43 : update: added Lamp/02 - 君が泣くなら.opus
+Oct 06 20:55 : player: played "archives/chaos-order/Heaven Pierce Her - ULTRAKILL- CHAOS-ORDER - 02 CHAOS.flac"
+Oct 06 21:32 : player: played "archives/chaos-order/Heaven Pierce Her - ULTRAKILL- CHAOS-ORDER - 03 ORDER.flac"
+Oct 07 14:41 : player: played "archives/chaos-order/Heaven Pierce Her - ULTRAKILL- CHAOS-ORDER - 02 CHAOS.flac"
+Oct 07 14:42 : player: played "archives/chaos-order/Heaven Pierce Her - ULTRAKILL- CHAOS-ORDER - 01 The Spinal Staircase.flac"
+Oct 07 14:47 : player: played "Lamp/02 - 君が泣くなら.opus"
+Oct 07 14:47 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Oct 07 14:53 : player: played "archives/deep-blue/Heaven Pierce Her - ULTRAKILL- DEEP BLUE - 01 Deep Blue.flac"
+Oct 07 14:57 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Oct 07 14:57 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Oct 07 14:57 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Oct 07 14:57 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Oct 07 14:57 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Oct 07 14:57 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Oct 07 14:57 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Oct 07 14:58 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Oct 07 15:04 : player: played "Lamp/02 - 君が泣くなら.opus"
+Oct 07 15:07 : player: played "archives/chaos-order/Heaven Pierce Her - ULTRAKILL- CHAOS-ORDER - 02 CHAOS.flac"
+Oct 07 15:12 : player: played "archives/deep-blue/Heaven Pierce Her - ULTRAKILL- DEEP BLUE - 01 Deep Blue.flac"
+Oct 07 15:13 : player: played "archives/chaos-order/Heaven Pierce Her - ULTRAKILL- CHAOS-ORDER - 01 The Spinal Staircase.flac"
+Oct 07 15:15 : player: played "archives/deep-blue/Heaven Pierce Her - ULTRAKILL- DEEP BLUE - 02 Deep Blue (Calm Loop).flac"
+Oct 07 15:22 : player: played "archives/chaos-order/Heaven Pierce Her - ULTRAKILL- CHAOS-ORDER - 03 ORDER.flac"
+Oct 07 17:31 : player: played "Lamp/01 - 空想夜間飛行.opus"
+Oct 07 17:32 : player: played "Lamp/01 - 空想夜間飛行.opus"
+Oct 07 17:33 : player: played "Lamp/01 - 空想夜間飛行.opus"
+Oct 07 17:35 : update: updating Lamp/02 - 君が泣くなら.opus
+Oct 07 17:35 : player: played "Lamp/02 - 君が泣くなら.opus"
+Oct 07 17:48 : update: removing Lamp/Lamp「Tokyo Utopia Tsushin」【東京ユウトピア通信】 (2011) - 001 01 - 空想夜間飛行 [w673bAlDyew].webm
+Oct 07 17:48 : update: removing Lamp/Lamp「Tokyo Utopia Tsushin」【東京ユウトピア通信】 (2011) - 002 02 - 君が泣くなら [w673bAlDyew].webm
+Oct 07 17:48 : update: removing Lamp/Lamp「Tokyo Utopia Tsushin」【東京ユウトピア通信】 (2011) - 003 03 - 冷ややかな情景 [w673bAlDyew].webm
+Oct 07 17:48 : update: removing Lamp/Lamp「Tokyo Utopia Tsushin」【東京ユウトピア通信】 (2011) - 004 04 - 遠い旅路 [w673bAlDyew].webm
+Oct 07 17:48 : update: removing Lamp/Lamp「Tokyo Utopia Tsushin」【東京ユウトピア通信】 (2011) - 005 05 - 君とぼくとのさよならに [w673bAlDyew].webm
+Oct 07 17:48 : update: removing Lamp/Lamp「Tokyo Utopia Tsushin」【東京ユウトピア通信】 (2011) - 006 06 - 心の窓辺に赤い花を飾って [w673bAlDyew].webm
+Oct 07 17:48 : update: removing Lamp/Lamp「Tokyo Utopia Tsushin」【東京ユウトピア通信】 (2011) - 007 07 - ムード・ロマンティカ [w673bAlDyew].webm
+Oct 07 17:48 : update: removing Lamp/Lamp「Tokyo Utopia Tsushin」【東京ユウトピア通信】 (2011) - 008 08 - 恋人と雨雲 [w673bAlDyew].webm
+Oct 07 17:48 : update: removing Lamp/Lamp「Tokyo Utopia Tsushin」【東京ユウトピア通信】 (2011) [w673bAlDyew].webm
+Oct 07 17:48 : update: added Lamp/03 - 冷ややかな情景.opus
+Oct 07 17:48 : update: added Lamp/workdir/Lamp「Tokyo Utopia Tsushin」【東京ユウトピア通信】 (2011) - 001 01 - 空想夜間飛行 [w673bAlDyew].webm
+Oct 07 17:48 : update: added Lamp/workdir/Lamp「Tokyo Utopia Tsushin」【東京ユウトピア通信】 (2011) - 002 02 - 君が泣くなら [w673bAlDyew].webm
+Oct 07 17:48 : update: added Lamp/workdir/Lamp「Tokyo Utopia Tsushin」【東京ユウトピア通信】 (2011) - 003 03 - 冷ややかな情景 [w673bAlDyew].webm
+Oct 07 17:48 : update: added Lamp/workdir/Lamp「Tokyo Utopia Tsushin」【東京ユウトピア通信】 (2011) - 004 04 - 遠い旅路 [w673bAlDyew].webm
+Oct 07 17:48 : update: added Lamp/workdir/Lamp「Tokyo Utopia Tsushin」【東京ユウトピア通信】 (2011) - 005 05 - 君とぼくとのさよならに [w673bAlDyew].webm
+Oct 07 17:48 : update: added Lamp/workdir/Lamp「Tokyo Utopia Tsushin」【東京ユウトピア通信】 (2011) - 006 06 - 心の窓辺に赤い花を飾って [w673bAlDyew].webm
+Oct 07 17:48 : update: added Lamp/workdir/Lamp「Tokyo Utopia Tsushin」【東京ユウトピア通信】 (2011) - 007 07 - ムード・ロマンティカ [w673bAlDyew].webm
+Oct 07 17:48 : update: added Lamp/workdir/Lamp「Tokyo Utopia Tsushin」【東京ユウトピア通信】 (2011) - 008 08 - 恋人と雨雲 [w673bAlDyew].webm
+Oct 07 17:48 : update: added Lamp/workdir/Lamp「Tokyo Utopia Tsushin」【東京ユウトピア通信】 (2011) [w673bAlDyew].webm
+Oct 07 17:48 : update: added Lamp/04 - 遠い旅路.opus
+Oct 07 17:48 : update: added Lamp/05 - 君とぼくとのさよならに.opus
+Oct 07 17:48 : update: added Lamp/06 - 心の窓辺に赤い花を飾って.opus
+Oct 07 17:53 : player: played "Lamp/06 - 心の窓辺に赤い花を飾って.opus"
+Oct 07 17:55 : update: added Lamp/07 - ムード・ロマンティカ.opus
+Oct 07 17:56 : update: added Lamp/08 - 恋人と雨雲.opus
+Oct 07 18:03 : player: played "Lamp/08 - 恋人と雨雲.opus"
+Oct 07 18:08 : player: played "archives/deep-blue/Heaven Pierce Her - ULTRAKILL- DEEP BLUE - 01 Deep Blue.flac"
+Oct 07 18:09 : exception: Failed to decode /home/obamid/Music/Lamp/03 - 冷ややかな情景.opus; Failed to open '/home/obamid/Music/Lamp/03 - 冷ややかな情景.opus': No such file or directory
+Oct 07 18:09 : player: played "Lamp/03 - 冷ややかな情景.opus"
+Oct 07 18:09 : exception: Failed to decode /home/obamid/Music/Lamp/03 - 冷ややかな情景.opus; Failed to open '/home/obamid/Music/Lamp/03 - 冷ややかな情景.opus': No such file or directory
+Oct 07 18:09 : exception: Failed to decode /home/obamid/Music/Lamp/03 - 冷ややかな情景.opus; Failed to open '/home/obamid/Music/Lamp/03 - 冷ややかな情景.opus': No such file or directory
+Oct 07 18:09 : player: played "Lamp/03 - 冷ややかな情景.opus"
+Oct 07 18:09 : exception: Failed to decode /home/obamid/Music/Lamp/03 - 冷ややかな情景.opus; Failed to open '/home/obamid/Music/Lamp/03 - 冷ややかな情景.opus': No such file or directory
+Oct 07 18:09 : update: removing Lamp/01 - 空想夜間飛行.opus
+Oct 07 18:09 : update: removing Lamp/05 - 君とぼくとのさよならに.opus
+Oct 07 18:09 : update: removing Lamp/04 - 遠い旅路.opus
+Oct 07 18:09 : update: removing Lamp/03 - 冷ややかな情景.opus
+Oct 07 18:09 : update: removing Lamp/02 - 君が泣くなら.opus
+Oct 07 18:09 : update: removing Lamp/08 - 恋人と雨雲.opus
+Oct 07 18:09 : update: removing Lamp/07 - ムード・ロマンティカ.opus
+Oct 07 18:09 : update: removing Lamp/06 - 心の窓辺に赤い花を飾って.opus
+Oct 07 18:09 : update: removing Lamp/workdir/Lamp「Tokyo Utopia Tsushin」【東京ユウトピア通信】 (2011) - 001 01 - 空想夜間飛行 [w673bAlDyew].webm
+Oct 07 18:09 : update: removing Lamp/workdir/Lamp「Tokyo Utopia Tsushin」【東京ユウトピア通信】 (2011) - 002 02 - 君が泣くなら [w673bAlDyew].webm
+Oct 07 18:09 : update: removing Lamp/workdir/Lamp「Tokyo Utopia Tsushin」【東京ユウトピア通信】 (2011) - 004 04 - 遠い旅路 [w673bAlDyew].webm
+Oct 07 18:09 : update: removing Lamp/workdir/Lamp「Tokyo Utopia Tsushin」【東京ユウトピア通信】 (2011) - 003 03 - 冷ややかな情景 [w673bAlDyew].webm
+Oct 07 18:09 : update: removing Lamp/workdir/Lamp「Tokyo Utopia Tsushin」【東京ユウトピア通信】 (2011) - 006 06 - 心の窓辺に赤い花を飾って [w673bAlDyew].webm
+Oct 07 18:09 : update: removing Lamp/workdir/Lamp「Tokyo Utopia Tsushin」【東京ユウトピア通信】 (2011) - 005 05 - 君とぼくとのさよならに [w673bAlDyew].webm
+Oct 07 18:09 : update: removing Lamp/workdir/Lamp「Tokyo Utopia Tsushin」【東京ユウトピア通信】 (2011) - 007 07 - ムード・ロマンティカ [w673bAlDyew].webm
+Oct 07 18:09 : update: removing Lamp/workdir/Lamp「Tokyo Utopia Tsushin」【東京ユウトピア通信】 (2011) - 008 08 - 恋人と雨雲 [w673bAlDyew].webm
+Oct 07 18:09 : update: removing Lamp/workdir/Lamp「Tokyo Utopia Tsushin」【東京ユウトピア通信】 (2011) [w673bAlDyew].webm
+Oct 07 18:09 : update: added Lamp/Tokyo Utopia Tsushin/01 - 空想夜間飛行.opus
+Oct 07 18:09 : update: added Lamp/Tokyo Utopia Tsushin/02 - 君が泣くなら.opus
+Oct 07 18:09 : update: added Lamp/Tokyo Utopia Tsushin/03 - 冷ややかな情景.opus
+Oct 07 18:09 : update: added Lamp/Tokyo Utopia Tsushin/04 - 遠い旅路.opus
+Oct 07 18:09 : update: added Lamp/Tokyo Utopia Tsushin/05 - 君とぼくとのさよならに.opus
+Oct 07 18:09 : update: added Lamp/Tokyo Utopia Tsushin/06 - 心の窓辺に赤い花を飾って.opus
+Oct 07 18:09 : update: added Lamp/Tokyo Utopia Tsushin/07 - ムード・ロマンティカ.opus
+Oct 07 18:09 : update: added Lamp/Tokyo Utopia Tsushin/08 - 恋人と雨雲.opus
+Oct 07 18:21 : update: added Lamp/workdir/Lamp – そよ風アパートメント201 (Soyokaze Apartment 201) [1w5pQHsRYvk].webm
+Oct 07 18:21 : update: added Lamp/Sokoyaze Apartment 201/01 - Windy Afternoon.opus
+Oct 07 18:21 : update: added Lamp/Sokoyaze Apartment 201/02 - Raindrop City.opus
+Oct 07 18:21 : update: added Lamp/Sokoyaze Apartment 201/03 - The Night School.opus
+Oct 07 18:21 : update: added Lamp/Sokoyaze Apartment 201/06 - From The Window.opus
+Oct 07 18:21 : update: added Lamp/Sokoyaze Apartment 201/04 - Us Tonight.opus
+Oct 07 18:21 : update: added Lamp/Sokoyaze Apartment 201/05 - Winter Cafe.opus
+Oct 07 18:25 : player: played "Lamp/Sokoyaze Apartment 201/04 - Us Tonight.opus"
+Oct 07 18:32 : player: played "archives/chaos-order/Heaven Pierce Her - ULTRAKILL- CHAOS-ORDER - 03 ORDER.flac"
+Oct 08 13:41 : update: removing Lamp/Sokoyaze Apartment 201/05 - Winter Cafe.opus
+Oct 08 13:41 : update: removing Lamp/Sokoyaze Apartment 201/04 - Us Tonight.opus
+Oct 08 13:41 : update: removing Lamp/Sokoyaze Apartment 201/03 - The Night School.opus
+Oct 08 13:41 : update: removing Lamp/Sokoyaze Apartment 201/02 - Raindrop City.opus
+Oct 08 13:41 : update: removing Lamp/Sokoyaze Apartment 201/01 - Windy Afternoon.opus
+Oct 08 13:41 : update: removing Lamp/Sokoyaze Apartment 201/06 - From The Window.opus
+Oct 08 13:41 : update: added Lamp/Soyokaze Apartment 201/01 - Windy Afternoon.opus
+Oct 08 13:41 : update: added Lamp/Soyokaze Apartment 201/02 - Raindrop City.opus
+Oct 08 13:41 : update: added Lamp/Soyokaze Apartment 201/03 - The Night School.opus
+Oct 08 13:41 : update: added Lamp/Soyokaze Apartment 201/06 - From The Window.opus
+Oct 08 13:41 : update: added Lamp/Soyokaze Apartment 201/04 - Us Tonight.opus
+Oct 08 13:41 : update: added Lamp/Soyokaze Apartment 201/05 - Winter Cafe.opus
+Oct 08 13:41 : update: added Lamp/Gensou/01 - Hakanaki Haro No Ichimaku.opus
+Oct 08 13:41 : update: added Lamp/Gensou/02 - Hisoyakani.opus
+Oct 08 13:41 : update: added Lamp/Gensou/03 - Yugure.opus
+Oct 08 13:41 : update: added Lamp/Gensou/04 - Ame Furu Yoru No Mukou.opus
+Oct 08 13:41 : update: added Lamp/Gensou/05 - Yume Utsutsu.opus
+Oct 08 13:41 : update: added Lamp/Gensou/06 - Hakucyumu.opus
+Oct 08 13:41 : update: added Lamp/Gensou/10 - End of a Holiday.opus
+Oct 08 13:41 : update: added Lamp/Gensou/09 - Fuyu No Kage Ha Kanashimi.opus
+Oct 08 13:41 : update: added Lamp/Gensou/07 - Nihon Syonen No Natsu.opus
+Oct 08 13:41 : update: added Lamp/Gensou/08 - Hatachi No Koi.opus
+Oct 08 13:46 : player: played "Lamp/Gensou/04 - Ame Furu Yoru No Mukou.opus"
+Oct 08 13:56 : update: added Harito/Nilca Note/workdir/Harito - Nilca Note.webm
+Oct 08 13:56 : update: added Harito/Nilca Note/01 - NO.XXXX.opus
+Oct 08 13:56 : update: added Harito/Nilca Note/02 - Data2597 12 24.opus
+Oct 08 13:56 : update: added Harito/Nilca Note/03 - unnamed_memory.opus
+Oct 08 13:56 : update: added Harito/Nilca Note/04 - sleep mode.opus
+Oct 08 13:56 : update: added Harito/Nilca Note/05 - seek.opus
+Oct 08 13:56 : update: added Harito/Nilca Note/06 - exIstence.opus
+Oct 08 13:56 : update: added Harito/Nilca Note/07 - i (another).opus
+Oct 08 13:56 : update: added Harito/Nilca Note/08 - Nilca.opus
+Oct 08 15:44 : update: removing Harito/Nilca Note/workdir/Harito - Nilca Note.webm
+Oct 08 15:44 : update: added Harito/Mary/workdir/Harito - Mary.webm
+Oct 08 15:44 : update: added Harito/Mary/01 - Introduction.opus
+Oct 08 15:44 : update: added Harito/Mary/02 - alone.opus
+Oct 08 15:44 : update: added Harito/Mary/03 - Locate Me.opus
+Oct 08 15:44 : update: added Harito/Mary/04 - Strange whisper.opus
+Oct 08 15:44 : update: added Harito/Mary/05 - YOU.opus
+Oct 08 15:44 : update: added Harito/Mary/06 - M²ell.opus
+Oct 08 15:44 : update: added Harito/Mary/07 - Geist.opus
+Oct 08 15:44 : update: added Harito/Mary/08 - unlocking.opus
+Oct 08 15:44 : update: added Harito/Mary/09 - [MaRy].opus
+Oct 08 15:44 : player: played "Harito/Mary/02 - alone.opus"
+Oct 08 15:45 : player: played "Harito/Mary/03 - Locate Me.opus"
+Oct 08 15:45 : update: updating Harito/Mary/03 - Locate Me.opus
+Oct 08 15:45 : output: Failed to play on "Pipewire Sound Server" (pipewire): invalid message id:2 op:2 (Invalid argument)
+Oct 08 15:45 : exception: Failed to open audio output
+Oct 08 15:45 : player: played "Harito/Mary/02 - alone.opus"
+Oct 08 15:46 : player: played "Harito/Mary/02 - alone.opus"
+Oct 08 15:46 : player: played "Harito/Mary/01 - Introduction.opus"
+Oct 08 15:46 : update: updating Harito/Mary/02 - alone.opus
+Oct 08 15:46 : player: played "Harito/Mary/02 - alone.opus"
+Oct 08 15:47 : player: played "Harito/Mary/02 - alone.opus"
+Oct 08 15:50 : player: played "Harito/Mary/03 - Locate Me.opus"
+Oct 08 15:52 : update: removing Tokyo Utopia Tsushin.webm
+Oct 08 15:52 : update: removing Harito/Mary/workdir/Harito - Mary.webm
+Oct 08 15:52 : update: added Compllege/In the Usual Motion/workdir/Taishi - Opens Inward (Introduction) ⧸⧸ In the Usual Motion [0KvxicNjuH8].webm
+Oct 08 15:52 : update: added Compllege/In the Usual Motion/01 - Opens Inward.opus
+Oct 08 15:54 : player: played "Harito/Mary/04 - Strange whisper.opus"
+Oct 08 15:55 : update: updating Compllege/In the Usual Motion/01 - Opens Inward.opus
+Oct 08 15:57 : update: removing Compllege/In the Usual Motion/workdir/Taishi - Opens Inward (Introduction) ⧸⧸ In the Usual Motion [0KvxicNjuH8].webm
+Oct 08 15:57 : update: added Compllege/In the Usual Motion/workdir/Nhato - Curiosity ⧸⧸ In the Usual Motion [s_SXEoI_OlU].webm
+Oct 08 15:57 : update: added Compllege/In the Usual Motion/02 - Curiosity.opus
+Oct 08 15:58 : player: played "Harito/Mary/05 - YOU.opus"
+Oct 08 16:01 : player: played "Harito/Mary/06 - M²ell.opus"
+Oct 08 16:06 : player: played "Harito/Mary/07 - Geist.opus"
+Oct 08 16:10 : player: played "Harito/Mary/08 - unlocking.opus"
+Oct 08 16:16 : player: played "Harito/Mary/09 - [MaRy].opus"
+Oct 09 17:21 : player: played "Harito/Nilca Note/01 - NO.XXXX.opus"
+Oct 09 17:25 : player: played "Harito/Nilca Note/02 - Data2597 12 24.opus"
+Oct 09 17:30 : player: played "Harito/Nilca Note/03 - unnamed_memory.opus"
+Oct 09 17:34 : player: played "Harito/Nilca Note/04 - sleep mode.opus"
+Oct 09 17:40 : player: played "Harito/Nilca Note/05 - seek.opus"
+Oct 09 17:47 : player: played "Harito/Nilca Note/06 - exIstence.opus"
+Oct 09 17:50 : player: played "Harito/Nilca Note/07 - i (another).opus"
+Oct 09 17:55 : player: played "Harito/Nilca Note/08 - Nilca.opus"
+Oct 10 17:18 : update: removing Compllege/In the Usual Motion/workdir/Nhato - Curiosity ⧸⧸ In the Usual Motion [s_SXEoI_OlU].webm
+Oct 10 17:18 : update: added Compllege/In the Usual Motion/03 - Make This Place.opus
+Oct 10 17:18 : update: added Compllege/In the Usual Motion/04 - Boring (But Precious).opus
+Oct 10 17:18 : update: added Compllege/In the Usual Motion/05 - Remind This Scene.opus
+Oct 10 17:18 : update: added Compllege/In the Usual Motion/06 - Outside Here.opus
+Oct 10 17:18 : update: added Compllege/In the Usual Motion/07 - Loiter.opus
+Oct 10 17:18 : update: added Compllege/In the Usual Motion/08 - Windmill.opus
+Oct 10 17:18 : update: added Compllege/In the Usual Motion/09 - Radiative Cooling.opus
+Oct 10 17:18 : update: added Compllege/In the Usual Motion/10 - Entomind.opus
+Oct 10 17:18 : update: added Compllege/In the Unusual Emotion/workdir/Compllege - In the Unusual Emotion.webm
+Oct 10 17:18 : update: added Compllege/In the Unusual Emotion/01 - Far From Here.opus
+Oct 10 17:18 : update: added Compllege/In the Unusual Emotion/02 - Misty Orchard.opus
+Oct 10 17:18 : update: added Compllege/Somewhere Not in this World/workdir/Somewhere Not in this World.webm
+Oct 10 17:18 : update: added Compllege/Somewhere Not in this World/01 - Introduction.opus
+Oct 10 17:18 : update: added Compllege/Somewhere Not in this World/02 - Time Tower 1.opus
+Oct 10 17:18 : update: added Compllege/Somewhere Not in this World/03 - Time Tower 2.opus
+Oct 10 17:18 : update: added Compllege/Somewhere Not in this World/04 - Time Tower 3.opus
+Oct 10 17:18 : update: added Compllege/Somewhere Not in this World/05 - In Another World.opus
+Oct 10 17:19 : player: played "Harito/Nilca Note/01 - NO.XXXX.opus"
+Oct 10 17:19 : player: played "Lamp/Gensou/01 - Hakanaki Haro No Ichimaku.opus"
+Oct 10 17:22 : player: played "Compllege/Somewhere Not in this World/01 - Introduction.opus"
+Oct 10 17:28 : player: played "Compllege/Somewhere Not in this World/02 - Time Tower 1.opus"
+Oct 10 17:33 : player: played "Compllege/Somewhere Not in this World/03 - Time Tower 2.opus"
+Oct 10 17:42 : player: played "Compllege/Somewhere Not in this World/04 - Time Tower 3.opus"
+Oct 10 17:49 : player: played "Compllege/Somewhere Not in this World/05 - In Another World.opus"
+Oct 15 10:31 : player: played "Lamp/Tokyo Utopia Tsushin/03 - 冷ややかな情景.opus"
+Oct 15 10:37 : player: played "Lamp/Tokyo Utopia Tsushin/04 - 遠い旅路.opus"
+Oct 15 10:43 : player: played "Lamp/Tokyo Utopia Tsushin/05 - 君とぼくとのさよならに.opus"
+Oct 15 15:53 : player: played "Lamp/Tokyo Utopia Tsushin/06 - 心の窓辺に赤い花を飾って.opus"
+Oct 15 15:57 : player: played "Lamp/Tokyo Utopia Tsushin/07 - ムード・ロマンティカ.opus"
+Oct 15 16:05 : player: played "Lamp/Tokyo Utopia Tsushin/08 - 恋人と雨雲.opus"
+Oct 20 15:18 : player: played "Harito/Nilca Note/01 - NO.XXXX.opus"
+Oct 21 15:08 : update: added Compllege/Phant Solo II/01 - Bygone.opus
+Oct 21 15:08 : update: added Compllege/Phant Solo II/02 - Rituals.opus
+Oct 21 15:08 : update: added Compllege/Phant Solo II/03 - The childhood.opus
+Oct 21 15:08 : update: added Compllege/Phant Solo II/04 - False God.opus
+Oct 21 15:08 : update: added Compllege/Phant Solo II/05 - The passing years.opus
+Oct 21 15:08 : update: added Compllege/Phant Solo II/06 - Escape from this World.opus
+Oct 21 15:08 : update: added Compllege/Phant Solo II/07 - Distant Relatives.opus
+Oct 21 15:08 : update: added Fusq/Polarity/01 - When The.opus
+Oct 21 15:08 : update: added Fusq/Polarity/02 - Inner.opus
+Oct 21 15:08 : update: added Fusq/Polarity/03 - Interlude.opus
+Oct 21 15:08 : update: added Fusq/Polarity/04 - Gateway.opus
+Oct 21 15:08 : update: added Fusq/Polarity/05 - Blush.opus
+Oct 21 15:08 : update: added Fusq/Polarity/06 - Then.opus
+Oct 21 15:08 : update: added Infected Mushroom/CV/01 - Albibeno.opus
+Oct 21 15:08 : update: added Infected Mushroom/CV/02 - Hash Male.opus
+Oct 21 15:08 : update: added Infected Mushroom/CV/03 - Apogiffa Night.opus
+Oct 21 15:08 : update: added Infected Mushroom/CV/04 - Song Pong.opus
+Oct 21 15:08 : update: added Infected Mushroom/CV/05 - Chaplin.opus
+Oct 21 15:08 : update: added Infected Mushroom/CV/06 - Echonomix.opus
+Oct 21 15:08 : update: added Infected Mushroom/CV/07 - Scorpion Frog.opus
+Oct 21 15:08 : update: added Infected Mushroom/CV/08 - Deeply Disturbed.opus
+Oct 21 15:08 : update: added Infected Mushroom/CV/09 - Semi Nice.opus
+Oct 21 15:08 : update: added Infected Mushroom/CV/10 - Yanko Pitch.opus
+Oct 21 15:08 : update: added Infected Mushroom/CV/11 - Converting Vegetarians.opus
+Oct 21 15:08 : update: added Infected Mushroom/CV/12 - Elation Station.opus
+Oct 21 15:08 : update: added Infected Mushroom/CV/13 - Drop Out.opus
+Oct 21 15:08 : update: added Infected Mushroom/CV/14 - Avratz.opus
+Oct 21 15:08 : update: added Infected Mushroom/CV/15 - Blink.opus
+Oct 21 15:08 : update: added Infected Mushroom/CV/16 - Shakawkaw.opus
+Oct 21 15:08 : update: added Infected Mushroom/CV/17 - Pletzturra.opus
+Oct 21 15:08 : update: added Infected Mushroom/CV/18 - I Wish.opus
+Oct 21 15:08 : update: added Infected Mushroom/CV/19 - Ballerium.opus
+Oct 21 15:08 : update: added Infected Mushroom/CV/20 - Selecta.opus
+Oct 21 15:08 : update: added Infected Mushroom/CV/21 - Illuminaughty.opus
+Oct 21 15:08 : update: added Infected Mushroom/CV/22 - Jeenge.opus
+Oct 21 15:08 : update: added Infected Mushroom/CV/23 - Elevation.opus
+Oct 21 15:08 : update: added Infected Mushroom/CVII/01 - She Zoremet.opus
+Oct 21 15:08 : update: added Infected Mushroom/CVII/02 - Yamaks in Space.opus
+Oct 21 15:08 : update: added Infected Mushroom/CVII/03 - Sense of Direction.opus
+Oct 21 15:08 : update: added Infected Mushroom/CVII/04 - Animatronica.opus
+Oct 21 15:08 : update: added Infected Mushroom/CVII/05 - Feelings.opus
+Oct 21 15:08 : update: added Infected Mushroom/CVII/06 - Pink Froid.opus
+Oct 21 15:08 : update: added Infected Mushroom/CVII/07 - Demons of Pain.opus
+Oct 21 15:08 : update: added Infected Mushroom/CVII/08 - Zoan Zound.opus
+Oct 21 15:08 : update: added Infected Mushroom/CVII/09 - Blue Swan 5.opus
+Oct 21 15:08 : update: added Infected Mushroom/CVII/10 - Fields of Grey.opus
+Oct 21 15:08 : update: added Infected Mushroom/CVII/11 - Leopold.opus
+Oct 21 15:08 : update: added Infected Mushroom/CVII/12 - On the Road Again.opus
+Oct 21 15:08 : update: added Infected Mushroom/CVII/13 - Stuck in a Loop.opus
+Oct 21 15:08 : update: added Infected Mushroom/CVII/14 - Mexicali.opus
+Oct 21 15:08 : update: added Infected Mushroom/CVII/15 - The Surgeon.opus
+Oct 21 15:08 : update: added Aximetrik/Catnip/02 - Minouches.opus
+Oct 21 15:08 : update: added Aximetrik/Catnip/03 - Catnip.opus
+Oct 21 15:08 : update: added Aximetrik/Catnip/01 - Tuna Party.opus
+Oct 21 15:08 : update: added Aximetrik/Alien Lifeform/01 - Thriving Rats.opus
+Oct 21 15:08 : update: added Aximetrik/Alien Lifeform/02 - Ignorance.opus
+Oct 21 15:08 : update: added Aximetrik/Alien Lifeform/03 - Bliss.opus
+Oct 21 15:08 : update: added Aximetrik/Alien Lifeform/04 - Prepare to Die.opus
+Oct 21 15:08 : update: added Aximetrik/Alien Lifeform/05 - Synthesizer.opus
+Oct 21 15:08 : update: added Aximetrik/Alien Lifeform/06 - Claws and Teeth.opus
+Oct 21 15:08 : update: added Aximetrik/Alien Lifeform/07 - Alien Lifeform.opus
+Oct 21 15:08 : update: added Aximetrik/Alien Lifeform/08 - Le Mastodonte.opus
+Oct 21 15:28 : update: added Compllege/Phant III/01 - Unterhimmel.opus
+Oct 21 15:28 : update: added Compllege/Phant III/02 - Dear Eternity.opus
+Oct 21 15:28 : update: added Compllege/Phant II/01 - Tangency.opus
+Oct 21 15:28 : update: added Compllege/Phant II/02 - The First Velocity.opus
+Oct 21 15:28 : update: added Compllege/Phant II/03 - Apparition of Solid.opus
+Oct 21 15:28 : update: added Compllege/Phant II/04 - Dream to the East.opus
+Oct 21 15:28 : update: added Compllege/Phant II/05 - Bird Eyes.opus
+Oct 21 15:28 : update: added Compllege/Phant II/06 - Telling the World.opus
+Oct 22 23:42 : player: played "Compllege/Phant II/01 - Tangency.opus"
+Oct 22 23:48 : player: played "Compllege/Phant II/02 - The First Velocity.opus"
+Oct 23 21:55 : output: Failed to play on "Pipewire Sound Server" (pipewire): connection error
+Oct 23 21:55 : exception: Failed to open audio output
+Oct 24 06:23 : output: Failed to play on "Pipewire Sound Server" (pipewire): connection error
+Oct 24 06:23 : exception: Failed to open audio output
+Oct 24 14:43 : player: played "Compllege/Phant II/03 - Apparition of Solid.opus"
+Oct 24 15:21 : player: played "Compllege/Phant II/04 - Dream to the East.opus"
+Oct 24 15:27 : player: played "Compllege/Phant II/05 - Bird Eyes.opus"
+Oct 24 15:37 : player: played "Compllege/Phant II/06 - Telling the World.opus"
+Oct 27 15:00 : player: played "Compllege/Phant II/03 - Apparition of Solid.opus"
+Oct 28 14:32 : player: played "Fusq/Polarity/02 - Inner.opus"
+Oct 28 14:34 : update: added Infected Mushroom/CV/14 - Avrats2.opus
+Oct 28 14:35 : update: removing Infected Mushroom/CV/14 - Avrats2.opus
+Oct 28 14:35 : update: updating Infected Mushroom/CV/14 - Avratz.opus
+Oct 28 14:35 : update: updating Infected Mushroom/CV/22 - Jeenge.opus
+Oct 28 14:37 : player: played "Compllege/In the Usual Motion/09 - Radiative Cooling.opus"
+Oct 28 14:46 : player: played "Aximetrik/Alien Lifeform/01 - Thriving Rats.opus"
+Oct 28 14:49 : player: played "Aximetrik/Alien Lifeform/02 - Ignorance.opus"
+Oct 28 17:28 : player: played "Aximetrik/Alien Lifeform/03 - Bliss.opus"
+Oct 28 17:37 : player: played "Aximetrik/Alien Lifeform/04 - Prepare to Die.opus"
+Oct 28 17:44 : player: played "Aximetrik/Alien Lifeform/05 - Synthesizer.opus"
+Oct 28 17:52 : player: played "Aximetrik/Alien Lifeform/06 - Claws and Teeth.opus"
+Oct 28 18:01 : player: played "Aximetrik/Alien Lifeform/07 - Alien Lifeform.opus"
+Oct 29 18:14 : player: played "Aximetrik/Alien Lifeform/08 - Le Mastodonte.opus"
+Oct 30 02:15 : client: [1] malformed command "GET / HTTP/1.1"
+Oct 30 14:01 : player: played "Aximetrik/Alien Lifeform/08 - Le Mastodonte.opus"
+Oct 30 14:07 : player: played "Lamp/Soyokaze Apartment 201/01 - Windy Afternoon.opus"
+Oct 30 14:11 : player: played "Lamp/Soyokaze Apartment 201/02 - Raindrop City.opus"
+Oct 30 14:14 : player: played "Lamp/Soyokaze Apartment 201/03 - The Night School.opus"
+Oct 30 16:35 : player: played "Infected Mushroom/CV/07 - Scorpion Frog.opus"
+Oct 30 16:44 : player: played "Infected Mushroom/CV/08 - Deeply Disturbed.opus"
+Oct 30 16:50 : player: played "Infected Mushroom/CV/09 - Semi Nice.opus"
+Oct 30 16:58 : player: played "Infected Mushroom/CV/10 - Yanko Pitch.opus"
+Oct 30 17:04 : player: played "Infected Mushroom/CV/11 - Converting Vegetarians.opus"
+Oct 30 17:22 : player: played "Infected Mushroom/CV/12 - Elation Station.opus"
+Oct 30 17:27 : player: played "Infected Mushroom/CV/13 - Drop Out.opus"
+Oct 30 17:38 : player: played "Infected Mushroom/CV/14 - Avratz.opus"
+Oct 30 17:44 : player: played "Infected Mushroom/CV/16 - Shakawkaw.opus"
+Oct 30 17:51 : player: played "Infected Mushroom/CV/17 - Pletzturra.opus"
+Oct 30 17:54 : player: played "Infected Mushroom/CV/18 - I Wish.opus"
+Oct 30 18:01 : player: played "Infected Mushroom/CV/19 - Ballerium.opus"
+Oct 30 18:02 : player: played "Infected Mushroom/CV/20 - Selecta.opus"
+Oct 30 18:02 : player: played "Compllege/In the Usual Motion/04 - Boring (But Precious).opus"
+Oct 30 18:08 : player: played "Fusq/Polarity/02 - Inner.opus"
+Oct 31 20:45 : exception: Failed to commit /home/obamid/.config/mpd/.mpd/state: File exists
+Nov 01 07:26 : update: added Chris Christodoulou/SOTV/workdir/Chris Christodoulou - Prelude in D flat major (F. Chopin) ｜ ROR2： Survivors of the Void (2022) [tkt4jWxs4Os].webm
+Nov 01 07:26 : update: added Chris Christodoulou/SOTV/workdir/Chris Christodoulou - A Placid Island of Ignorance ｜ ROR2： Survivors of the Void (2022) [tw_nOq_t--I].webm
+Nov 01 07:26 : update: added Chris Christodoulou/SOTV/workdir/Chris Christodoulou - Having Fallen, It Was Blood ｜ ROR2： Survivors of the Void (2022) [gmgjuymq5kk].webm
+Nov 01 07:26 : update: added Chris Christodoulou/SOTV/workdir/Chris Christodoulou - Out of Whose Womb Came the Ice？ ｜ ROR2： Survivors of the Void (2022) [g89ozaj2SHo].webm
+Nov 01 07:26 : update: added Chris Christodoulou/SOTV/workdir/Chris Christodoulou - Once in a Lullaby ｜ ROR2： Survivors of the Void (2022) [81QhAo3hLrM].webm
+Nov 01 07:26 : update: added Chris Christodoulou/SOTV/workdir/Chris Christodoulou - A Boat Made from a Sheet of Newspaper ｜ ROR2： Survivors of the Void (2022) [hiRgFXGbVQU].webm
+Nov 01 07:26 : update: added Chris Christodoulou/SOTV/workdir/Chris Christodoulou - They Might As Well Be Dead ｜ ROR2： Survivors of the Void (2022) [VTJcLE_VVX8].webm
+Nov 01 07:26 : update: added Chris Christodoulou/SOTV/workdir/Chris Christodoulou - The Face of the Deep ｜ ROR2： Survivors of the Void (2022) [103F1YbbSv0].webm
+Nov 01 07:26 : update: added Chris Christodoulou/SOTV/workdir/Chris Christodoulou - Who Can Fathom the Soundless Depths？ (F. Chopin) ｜ ROR2： SOTV (2022) [rdnpdJXgV0Q].webm
+Nov 01 07:26 : update: added Chris Christodoulou/SOTV/workdir/ROR2： Survivors of the Void ｜ Album Commentary V1 [fUQic4JreCs].webm
+Nov 01 07:26 : update: added Chris Christodoulou/SOTV/workdir/ROR2： Survivors of the Void ｜ Album Commentary V2 [PDV0qhPK1tM].webm
+Nov 01 07:26 : update: added Chris Christodoulou/SOTV/01 - Prelude in D flat major.opus
+Nov 01 07:28 : update: updating Chris Christodoulou/SOTV/01 - Prelude in D flat major.opus
+Nov 01 07:34 : update: updating Chris Christodoulou/SOTV/01 - Prelude in D flat major.opus
+Nov 01 07:34 : update: added Chris Christodoulou/SOTV/02 - A Placid Island of Ignorance.opus
+Nov 01 07:34 : update: added Chris Christodoulou/SOTV/03 - Having Fallen, It Was Blood.opus
+Nov 01 07:34 : update: added Chris Christodoulou/SOTV/04 - Out of Whose Womb Came the Ice.opus
+Nov 01 07:34 : update: added Chris Christodoulou/SOTV/05 - Once in a Lullaby.opus
+Nov 01 07:34 : update: added Chris Christodoulou/SOTV/06 - A Boat Made from a Sheet of Newspaper.opus
+Nov 01 07:34 : update: added Chris Christodoulou/SOTV/07 - They Might As Well Be Dead.opus
+Nov 01 07:34 : update: added Chris Christodoulou/SOTV/08 - The Face of the Deep.opus
+Nov 01 07:34 : update: added Chris Christodoulou/SOTV/09 - Who Can Fathom the Soundless Depths.opus
+Nov 01 18:03 : update: removing Chris Christodoulou/SOTV/workdir/ROR2： Survivors of the Void ｜ Album Commentary V2 [PDV0qhPK1tM].webm
+Nov 01 18:03 : update: removing Chris Christodoulou/SOTV/workdir/ROR2： Survivors of the Void ｜ Album Commentary V1 [fUQic4JreCs].webm
+Nov 01 18:03 : update: removing Chris Christodoulou/SOTV/workdir/Chris Christodoulou - Who Can Fathom the Soundless Depths？ (F. Chopin) ｜ ROR2： SOTV (2022) [rdnpdJXgV0Q].webm
+Nov 01 18:03 : update: removing Chris Christodoulou/SOTV/workdir/Chris Christodoulou - They Might As Well Be Dead ｜ ROR2： Survivors of the Void (2022) [VTJcLE_VVX8].webm
+Nov 01 18:03 : update: removing Chris Christodoulou/SOTV/workdir/Chris Christodoulou - The Face of the Deep ｜ ROR2： Survivors of the Void (2022) [103F1YbbSv0].webm
+Nov 01 18:03 : update: removing Chris Christodoulou/SOTV/workdir/Chris Christodoulou - Prelude in D flat major (F. Chopin) ｜ ROR2： Survivors of the Void (2022) [tkt4jWxs4Os].webm
+Nov 01 18:03 : update: removing Chris Christodoulou/SOTV/workdir/Chris Christodoulou - Out of Whose Womb Came the Ice？ ｜ ROR2： Survivors of the Void (2022) [g89ozaj2SHo].webm
+Nov 01 18:03 : update: removing Chris Christodoulou/SOTV/workdir/Chris Christodoulou - Once in a Lullaby ｜ ROR2： Survivors of the Void (2022) [81QhAo3hLrM].webm
+Nov 01 18:03 : update: removing Chris Christodoulou/SOTV/workdir/Chris Christodoulou - Having Fallen, It Was Blood ｜ ROR2： Survivors of the Void (2022) [gmgjuymq5kk].webm
+Nov 01 18:03 : update: removing Chris Christodoulou/SOTV/workdir/Chris Christodoulou - A Placid Island of Ignorance ｜ ROR2： Survivors of the Void (2022) [tw_nOq_t--I].webm
+Nov 01 18:03 : update: removing Chris Christodoulou/SOTV/workdir/Chris Christodoulou - A Boat Made from a Sheet of Newspaper ｜ ROR2： Survivors of the Void (2022) [hiRgFXGbVQU].webm
+Nov 01 18:03 : update: added Chris Christodoulou/ROR2/01 - Through a Cloud, Darkly.opus
+Nov 01 18:03 : update: added Chris Christodoulou/ROR2/02 - Risk of Rain 2.opus
+Nov 01 18:03 : update: added Chris Christodoulou/ROR2/03 - Evapotranspiration.opus
+Nov 01 18:03 : update: added Chris Christodoulou/ROR2/04 - Thermodynamic Equilibrium.opus
+Nov 01 18:03 : update: added Chris Christodoulou/ROR2/05 - Terra Pluviam.opus
+Nov 01 18:03 : update: added Chris Christodoulou/ROR2/06 - Koppen as FUCK.opus
+Nov 01 18:03 : update: added Chris Christodoulou/ROR2/07 - Disdrometer.opus
+Nov 01 18:03 : update: added Chris Christodoulou/ROR2/08 - Into the Doldrums.opus
+Nov 01 18:03 : update: added Chris Christodoulou/ROR2/09 - A Glacier Eventually Farts (And Don't you listen to the song of life).opus
+Nov 01 18:03 : update: added Chris Christodoulou/ROR2/10 - Nocturnal Emission.opus
+Nov 01 18:03 : update: added Chris Christodoulou/ROR2/11 - The Dehydration of Risk of Rain 2.opus
+Nov 01 18:03 : update: added Chris Christodoulou/ROR2/12 - Parjanya.opus
+Nov 01 18:03 : update: added Chris Christodoulou/ROR2/13 - Hydrophobia.opus
+Nov 01 18:03 : update: added Chris Christodoulou/ROR2/14 - Antarctic Oscillation.opus
+Nov 01 18:03 : update: added Chris Christodoulou/ROR2/15 - The Rain formerly known as purple.opus
+Nov 01 18:03 : update: added Chris Christodoulou/ROR2/16 - The Raindrop that fell to the Sky.opus
+Nov 01 18:03 : update: added Chris Christodoulou/ROR2/17 - You're Gonna Need a bigger Ukulele.opus
+Nov 01 18:03 : update: added Chris Christodoulou/ROR2/18 - con lentitud poderosa.opus
+Nov 01 18:03 : update: added Chris Christodoulou/ROR2/19 - Petrichor V.opus
+Nov 01 18:03 : update: added Chris Christodoulou/ROR2/20 - Lacrimosum.opus
+Nov 02 07:21 : update: added strwxberrymilk/GAIA/02 - Resurrection of Mother Earth.opus
+Nov 02 07:21 : update: added strwxberrymilk/GAIA/03 - Enies Lobby.opus
+Nov 02 07:21 : update: added strwxberrymilk/GAIA/04 - Hold On!.opus
+Nov 02 07:21 : update: added strwxberrymilk/GAIA/05 - Clairvoyant.opus
+Nov 02 07:21 : update: added strwxberrymilk/GAIA/06 - Milky Rave.opus
+Nov 02 07:21 : update: added strwxberrymilk/GAIA/07 - Cursed.opus
+Nov 02 07:21 : update: added strwxberrymilk/GAIA/08 - I Still Love You.opus
+Nov 02 07:21 : update: added strwxberrymilk/GAIA/09 - Gaia of the Stars.opus
+Nov 02 07:21 : update: added strwxberrymilk/GAIA/10 - Uwa.opus
+Nov 02 07:21 : update: added strwxberrymilk/GAIA/11 - Ascended.opus
+Nov 02 07:21 : update: added strwxberrymilk/GAIA/12 - There Was Once a Planet Called Earth.opus
+Nov 02 07:21 : update: added strwxberrymilk/GAIA/01 - When the Meteorites Fall.opus
+Nov 02 07:36 : update: added Chris Christodoulou/ROR/01 - Risk of Rain.opus
+Nov 02 07:36 : update: added Chris Christodoulou/ROR/02 - Dew Point.opus
+Nov 02 07:36 : update: added Chris Christodoulou/ROR/03 - Tropic of Capricorn.opus
+Nov 02 07:36 : update: added Chris Christodoulou/ROR/04 - Monsoon.opus
+Nov 02 07:36 : update: added Chris Christodoulou/ROR/05 - Cyclogenesis.opus
+Nov 02 07:36 : update: added Chris Christodoulou/ROR/06 - 25.3°N 91.7°E.opus
+Nov 02 07:36 : update: added Chris Christodoulou/ROR/07 - Hailstorm.opus
+Nov 02 07:36 : update: added Chris Christodoulou/ROR/08 - Moisture Deficit.opus
+Nov 02 07:36 : update: added Chris Christodoulou/ROR/09 - Tropic of Cancer.opus
+Nov 02 07:36 : update: added Chris Christodoulou/ROR/10 - Aurora Borealis.opus
+Nov 02 07:36 : update: added Chris Christodoulou/ROR/11 - Surface Tension.opus
+Nov 02 07:36 : update: added Chris Christodoulou/ROR/12 - Arctic Oscillation.opus
+Nov 02 07:36 : update: added Chris Christodoulou/ROR/13 - Precipitation.opus
+Nov 02 07:36 : update: added Chris Christodoulou/ROR/14 - Double Fucking Rainbow.opus
+Nov 02 07:36 : update: added Chris Christodoulou/ROR/15 - Coalescence.opus
+Nov 02 07:36 : update: added Chris Christodoulou/ROR/16 - Chanson d'Automne.opus
+Nov 02 07:46 : update: added Compllege/Phant/01 - Bluefieldcreator.opus
+Nov 02 07:46 : update: added Compllege/Phant/02 - Empty Egg.opus
+Nov 02 15:30 : update: updating Compllege/Phant/01 - Bluefieldcreator.opus
+Nov 02 15:30 : update: updating Compllege/Phant/02 - Empty Egg.opus
+Nov 02 15:30 : player: played "strwxberrymilk/GAIA/02 - Resurrection of Mother Earth.opus"
+Nov 02 15:31 : player: played "Aximetrik/Catnip/01 - Tuna Party.opus"
+Nov 02 15:48 : player: played "Aximetrik/Catnip/01 - Tuna Party.opus"
+Nov 02 15:57 : player: played "Aximetrik/Catnip/02 - Minouches.opus"
+Nov 02 16:06 : player: played "Aximetrik/Catnip/03 - Catnip.opus"
+Nov 02 16:12 : player: played "Aximetrik/Alien Lifeform/01 - Thriving Rats.opus"
+Nov 02 16:14 : player: played "Aximetrik/Alien Lifeform/02 - Ignorance.opus"
+Nov 02 16:22 : player: played "Aximetrik/Alien Lifeform/03 - Bliss.opus"
+Nov 02 16:31 : player: played "Aximetrik/Alien Lifeform/04 - Prepare to Die.opus"
+Nov 02 16:38 : player: played "Aximetrik/Alien Lifeform/05 - Synthesizer.opus"
+Nov 02 16:46 : player: played "Aximetrik/Alien Lifeform/06 - Claws and Teeth.opus"
+Nov 02 16:55 : player: played "Aximetrik/Alien Lifeform/07 - Alien Lifeform.opus"
+Nov 02 17:00 : player: played "Aximetrik/Alien Lifeform/08 - Le Mastodonte.opus"
+Nov 03 15:42 : player: played "Infected Mushroom/CV/01 - Albibeno.opus"
+Nov 03 15:49 : player: played "Infected Mushroom/CV/02 - Hash Male.opus"
+Nov 03 15:57 : player: played "Infected Mushroom/CV/03 - Apogiffa Night.opus"
+Nov 03 17:34 : player: played "Infected Mushroom/CV/04 - Song Pong.opus"
+Nov 03 17:41 : player: played "Infected Mushroom/CV/05 - Chaplin.opus"
+Nov 03 17:49 : player: played "Infected Mushroom/CV/06 - Echonomix.opus"
+Nov 03 17:57 : player: played "Infected Mushroom/CV/07 - Scorpion Frog.opus"
+Nov 03 18:05 : player: played "Infected Mushroom/CV/08 - Deeply Disturbed.opus"
+Nov 03 18:12 : player: played "Infected Mushroom/CV/09 - Semi Nice.opus"
+Nov 04 15:11 : player: played "Infected Mushroom/CV/10 - Yanko Pitch.opus"
+Nov 04 15:11 : player: played "Lamp/Tokyo Utopia Tsushin/01 - 空想夜間飛行.opus"
+Nov 04 15:16 : player: played "Lamp/Soyokaze Apartment 201/01 - Windy Afternoon.opus"
+Nov 04 15:20 : player: played "Lamp/Soyokaze Apartment 201/02 - Raindrop City.opus"
+Nov 04 15:24 : player: played "Lamp/Soyokaze Apartment 201/03 - The Night School.opus"
+Nov 04 15:28 : player: played "Lamp/Soyokaze Apartment 201/04 - Us Tonight.opus"
+Nov 04 15:32 : player: played "Lamp/Soyokaze Apartment 201/05 - Winter Cafe.opus"
+Nov 04 15:35 : player: played "Lamp/Soyokaze Apartment 201/06 - From The Window.opus"
+Nov 04 15:41 : player: played "Lamp/Gensou/01 - Hakanaki Haro No Ichimaku.opus"
+Nov 04 15:44 : player: played "Lamp/Gensou/02 - Hisoyakani.opus"
+Nov 04 15:49 : player: played "Lamp/Gensou/03 - Yugure.opus"
+Nov 04 15:54 : player: played "Lamp/Gensou/04 - Ame Furu Yoru No Mukou.opus"
+Nov 04 15:58 : player: played "Lamp/Gensou/06 - Hakucyumu.opus"
+Nov 06 18:26 : player: played "Lamp/Gensou/05 - Yume Utsutsu.opus"
+Nov 06 18:26 : player: played "Lamp/Gensou/05 - Yume Utsutsu.opus"
+Nov 06 18:35 : exception: Failed to commit /home/obamid/.config/mpd/.mpd/state: File exists
+Nov 07 18:14 : player: played "Compllege/Phant II/01 - Tangency.opus"
+Nov 07 18:20 : player: played "Compllege/Phant II/02 - The First Velocity.opus"
+Nov 07 20:50 : player: played "Compllege/Phant II/03 - Apparition of Solid.opus"
+Nov 07 20:56 : player: played "Compllege/Phant II/04 - Dream to the East.opus"
+Nov 07 21:02 : player: played "Compllege/Phant II/05 - Bird Eyes.opus"
+Nov 07 21:11 : player: played "Compllege/Phant II/06 - Telling the World.opus"
+Nov 07 22:29 : player: played "Lamp/Tokyo Utopia Tsushin/01 - 空想夜間飛行.opus"
+Nov 08 09:27 : player: played "Compllege/Phant/01 - Bluefieldcreator.opus"
+Nov 08 09:38 : player: played "Compllege/Phant/02 - Empty Egg.opus"
+Nov 08 09:45 : player: played "strwxberrymilk/GAIA/02 - Resurrection of Mother Earth.opus"
+Nov 08 09:47 : player: played "strwxberrymilk/GAIA/04 - Hold On!.opus"
+Nov 08 10:11 : player: played "strwxberrymilk/GAIA/05 - Clairvoyant.opus"
+Nov 08 11:24 : player: played "strwxberrymilk/GAIA/06 - Milky Rave.opus"
+Nov 08 11:27 : player: played "strwxberrymilk/GAIA/07 - Cursed.opus"
+Nov 08 11:34 : player: played "strwxberrymilk/GAIA/08 - I Still Love You.opus"
+Nov 08 11:37 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Nov 08 12:50 : player: played "strwxberrymilk/GAIA/09 - Gaia of the Stars.opus"
+Nov 08 12:53 : player: played "strwxberrymilk/GAIA/10 - Uwa.opus"
+Nov 08 12:55 : player: played "strwxberrymilk/GAIA/11 - Ascended.opus"
+Nov 08 13:08 : player: played "strwxberrymilk/GAIA/12 - There Was Once a Planet Called Earth.opus"
+Nov 08 17:54 : player: played "Fusq/Polarity/01 - When The.opus"
+Nov 08 17:59 : player: played "Fusq/Polarity/02 - Inner.opus"
+Nov 08 18:00 : player: played "Fusq/Polarity/03 - Interlude.opus"
+Nov 08 18:03 : player: played "Fusq/Polarity/04 - Gateway.opus"
+Nov 08 18:06 : player: played "Fusq/Polarity/05 - Blush.opus"
+Nov 08 18:07 : player: played "Fusq/Polarity/06 - Then.opus"
+Nov 08 18:25 : player: played "archives/chaos-order/Heaven Pierce Her - ULTRAKILL- CHAOS-ORDER - 02 CHAOS.flac"
+Nov 09 14:21 : player: played "Compllege/Somewhere Not in this World/01 - Introduction.opus"
+Nov 09 14:26 : player: played "Compllege/Somewhere Not in this World/02 - Time Tower 1.opus"
+Nov 09 14:31 : player: played "Compllege/Somewhere Not in this World/03 - Time Tower 2.opus"
+Nov 09 14:41 : player: played "Compllege/Somewhere Not in this World/04 - Time Tower 3.opus"
+Nov 09 14:47 : player: played "Compllege/Somewhere Not in this World/05 - In Another World.opus"
+Nov 12 18:52 : player: played "Compllege/Somewhere Not in this World/01 - Introduction.opus"
+Nov 12 18:57 : player: played "Compllege/Somewhere Not in this World/02 - Time Tower 1.opus"
+Nov 12 19:03 : player: played "Compllege/Somewhere Not in this World/03 - Time Tower 2.opus"
+Nov 12 19:12 : player: played "Compllege/Somewhere Not in this World/04 - Time Tower 3.opus"
+Nov 12 19:19 : player: played "Compllege/Somewhere Not in this World/05 - In Another World.opus"
+Nov 12 21:25 : player: played "Lamp/Soyokaze Apartment 201/01 - Windy Afternoon.opus"
+Nov 12 21:30 : player: played "Lamp/Soyokaze Apartment 201/02 - Raindrop City.opus"
+Nov 12 21:34 : player: played "Lamp/Soyokaze Apartment 201/03 - The Night School.opus"
+Nov 12 21:37 : player: played "Lamp/Soyokaze Apartment 201/04 - Us Tonight.opus"
+Nov 12 21:41 : player: played "Lamp/Soyokaze Apartment 201/05 - Winter Cafe.opus"
+Nov 12 21:45 : player: played "Lamp/Soyokaze Apartment 201/06 - From The Window.opus"
+Nov 13 10:16 : player: played "Harito/Mary/01 - Introduction.opus"
+Nov 13 10:18 : player: played "Harito/Mary/02 - alone.opus"
+Nov 13 10:22 : player: played "Harito/Mary/03 - Locate Me.opus"
+Nov 13 10:26 : player: played "Harito/Mary/04 - Strange whisper.opus"
+Nov 13 10:29 : player: played "Harito/Mary/05 - YOU.opus"
+Nov 13 10:33 : player: played "Harito/Mary/06 - M²ell.opus"
+Nov 13 10:37 : player: played "Harito/Mary/07 - Geist.opus"
+Nov 13 10:42 : player: played "Harito/Mary/08 - unlocking.opus"
+Nov 13 10:48 : player: played "Harito/Mary/09 - [MaRy].opus"
+Nov 22 22:58 : update: added Electrocutica/Hysterisis/workdir/Electrocutica - Hysteresis (2010) [Full Album] [Q8AQDQ7cmCM].webm
+Nov 22 22:58 : update: added Electrocutica/Hysterisis/01 - Hysteresis.opus
+Nov 22 22:58 : update: added Electrocutica/Hysterisis/02 - Blindness.opus
+Nov 22 22:58 : update: added Electrocutica/Hysterisis/03 - Drain.opus
+Nov 22 22:58 : update: added Electrocutica/Hysterisis/04 - iDOLLA A Human Work.opus
+Nov 22 22:58 : update: added Electrocutica/Hysterisis/05 - Drain Re:Act.opus
+Nov 22 22:58 : update: added Electrocutica/Hysterisis/06 - iDOLLA A Human Nature.opus
+Nov 22 22:58 : update: added Electrocutica/Hysterisis/07 - firstAlphabet mk-2.opus
+Nov 22 23:05 : player: played "Electrocutica/Hysterisis/03 - Drain.opus"
+Nov 22 23:11 : player: played "Electrocutica/Hysterisis/05 - Drain Re:Act.opus"
+Nov 23 11:42 : player: played "Electrocutica/Hysterisis/03 - Drain.opus"
+Nov 23 11:48 : player: played "Electrocutica/Hysterisis/05 - Drain Re:Act.opus"
+Nov 23 16:44 : player: played "Lamp/Soyokaze Apartment 201/01 - Windy Afternoon.opus"
+Nov 23 16:49 : player: played "Lamp/Soyokaze Apartment 201/02 - Raindrop City.opus"
+Nov 23 16:53 : player: played "Lamp/Soyokaze Apartment 201/03 - The Night School.opus"
+Nov 23 16:56 : player: played "Lamp/Soyokaze Apartment 201/04 - Us Tonight.opus"
+Nov 23 17:00 : player: played "Lamp/Soyokaze Apartment 201/05 - Winter Cafe.opus"
+Nov 23 17:04 : player: played "Lamp/Soyokaze Apartment 201/06 - From The Window.opus"
+Nov 23 17:15 : player: played "Compllege/Phant Solo II/01 - Bygone.opus"
+Nov 24 21:26 : player: played "Compllege/Phant Solo II/02 - Rituals.opus"
+Nov 24 21:33 : player: played "Compllege/Phant Solo II/03 - The childhood.opus"
+Nov 24 21:39 : player: played "Compllege/Phant Solo II/04 - False God.opus"
+Nov 24 21:45 : player: played "Compllege/Phant Solo II/05 - The passing years.opus"
+Nov 24 21:52 : player: played "Compllege/Phant Solo II/06 - Escape from this World.opus"
+Nov 24 22:12 : player: played "Compllege/Phant Solo II/07 - Distant Relatives.opus"
+Nov 24 22:18 : player: played "Electrocutica/Hysterisis/01 - Hysteresis.opus"
+Nov 24 22:24 : player: played "Electrocutica/Hysterisis/02 - Blindness.opus"
+Nov 24 22:30 : player: played "Electrocutica/Hysterisis/03 - Drain.opus"
+Nov 24 22:37 : player: played "Electrocutica/Hysterisis/04 - iDOLLA A Human Work.opus"
+Nov 24 22:44 : player: played "Electrocutica/Hysterisis/05 - Drain Re:Act.opus"
+Nov 24 22:50 : player: played "Electrocutica/Hysterisis/06 - iDOLLA A Human Nature.opus"
+Nov 24 22:56 : player: played "Electrocutica/Hysterisis/07 - firstAlphabet mk-2.opus"
+Nov 25 13:55 : player: played "Electrocutica/Hysterisis/01 - Hysteresis.opus"
+Nov 25 14:00 : player: played "Electrocutica/Hysterisis/02 - Blindness.opus"
+Nov 25 14:06 : player: played "Electrocutica/Hysterisis/03 - Drain.opus"
+Nov 25 14:13 : player: played "Electrocutica/Hysterisis/04 - iDOLLA A Human Work.opus"
+Nov 25 14:20 : player: played "Electrocutica/Hysterisis/05 - Drain Re:Act.opus"
+Nov 25 14:27 : player: played "Electrocutica/Hysterisis/06 - iDOLLA A Human Nature.opus"
+Nov 25 14:33 : player: played "Electrocutica/Hysterisis/07 - firstAlphabet mk-2.opus"
+Nov 25 23:21 : player: played "Electrocutica/Hysterisis/05 - Drain Re:Act.opus"
+Nov 26 17:31 : player: played "Electrocutica/Hysterisis/06 - iDOLLA A Human Nature.opus"
+Nov 26 18:56 : player: played "Electrocutica/Hysterisis/06 - iDOLLA A Human Nature.opus"
+Nov 26 19:02 : player: played "Electrocutica/Hysterisis/06 - iDOLLA A Human Nature.opus"
+Nov 26 19:08 : player: played "Electrocutica/Hysterisis/07 - firstAlphabet mk-2.opus"
+Nov 26 21:15 : player: played "Electrocutica/Hysterisis/07 - firstAlphabet mk-2.opus"
+Nov 26 21:30 : player: played "Electrocutica/Hysterisis/07 - firstAlphabet mk-2.opus"
+Nov 26 21:36 : player: played "Electrocutica/Hysterisis/07 - firstAlphabet mk-2.opus"
+Nov 26 21:39 : player: played "Electrocutica/Hysterisis/07 - firstAlphabet mk-2.opus"
+Nov 26 22:43 : player: played "Electrocutica/Hysterisis/05 - Drain Re:Act.opus"
+Nov 26 22:51 : player: played "Electrocutica/Hysterisis/05 - Drain Re:Act.opus"
+Nov 26 22:51 : player: played "Electrocutica/Hysterisis/05 - Drain Re:Act.opus"
+Nov 26 22:54 : player: played "Fusq/Polarity/01 - When The.opus"
+Nov 26 22:59 : player: played "Fusq/Polarity/02 - Inner.opus"
+Nov 26 23:00 : player: played "Fusq/Polarity/03 - Interlude.opus"
+Nov 26 23:03 : player: played "Fusq/Polarity/04 - Gateway.opus"
+Nov 26 23:06 : player: played "Fusq/Polarity/05 - Blush.opus"
+Nov 26 23:07 : player: played "Fusq/Polarity/06 - Then.opus"
+Nov 27 00:27 : player: played "Fusq/Polarity/01 - When The.opus"
+Nov 27 00:34 : player: played "Electrocutica/Hysterisis/06 - iDOLLA A Human Nature.opus"
+Nov 27 00:40 : player: played "Electrocutica/Hysterisis/06 - iDOLLA A Human Nature.opus"
+Nov 27 00:47 : player: played "Electrocutica/Hysterisis/03 - Drain.opus"
+Nov 30 15:28 : player: played "Electrocutica/Hysterisis/07 - firstAlphabet mk-2.opus"
+Nov 30 15:34 : player: played "Electrocutica/Hysterisis/07 - firstAlphabet mk-2.opus"
+Nov 30 15:39 : player: played "Electrocutica/Hysterisis/07 - firstAlphabet mk-2.opus"
+Nov 30 15:45 : player: played "Electrocutica/Hysterisis/07 - firstAlphabet mk-2.opus"
+Nov 30 15:45 : player: played "Electrocutica/Hysterisis/07 - firstAlphabet mk-2.opus"
+Nov 30 15:52 : player: played "Electrocutica/Hysterisis/05 - Drain Re:Act.opus"
+Nov 30 15:52 : player: played "Electrocutica/Hysterisis/05 - Drain Re:Act.opus"
+Nov 30 15:58 : player: played "Lamp/Gensou/01 - Hakanaki Haro No Ichimaku.opus"
+Nov 30 16:01 : player: played "Lamp/Gensou/02 - Hisoyakani.opus"
+Nov 30 18:14 : player: played "Lamp/Gensou/03 - Yugure.opus"
+Nov 30 18:19 : player: played "Lamp/Gensou/04 - Ame Furu Yoru No Mukou.opus"
+Nov 30 18:23 : player: played "Lamp/Gensou/06 - Hakucyumu.opus"
+Nov 30 18:28 : player: played "Lamp/Gensou/05 - Yume Utsutsu.opus"
+Nov 30 18:34 : player: played "Lamp/Gensou/07 - Nihon Syonen No Natsu.opus"
+Nov 30 18:37 : player: played "Lamp/Gensou/08 - Hatachi No Koi.opus"
+Nov 30 18:41 : player: played "Lamp/Gensou/09 - Fuyu No Kage Ha Kanashimi.opus"
+Nov 30 18:46 : player: played "Lamp/Gensou/10 - End of a Holiday.opus"
+Nov 30 18:51 : player: played "Lamp/Tokyo Utopia Tsushin/01 - 空想夜間飛行.opus"
+Nov 30 18:56 : player: played "Lamp/Tokyo Utopia Tsushin/02 - 君が泣くなら.opus"
+Nov 30 19:03 : player: played "Lamp/Tokyo Utopia Tsushin/03 - 冷ややかな情景.opus"
+Nov 30 19:09 : player: played "Lamp/Tokyo Utopia Tsushin/04 - 遠い旅路.opus"
+Nov 30 19:14 : player: played "Lamp/Tokyo Utopia Tsushin/05 - 君とぼくとのさよならに.opus"
+Nov 30 19:20 : player: played "Lamp/Tokyo Utopia Tsushin/06 - 心の窓辺に赤い花を飾って.opus"
+Nov 30 19:24 : player: played "Lamp/Tokyo Utopia Tsushin/07 - ムード・ロマンティカ.opus"
+Nov 30 19:30 : player: played "Lamp/Tokyo Utopia Tsushin/08 - 恋人と雨雲.opus"
+Dec 01 15:04 : player: played "Compllege/Somewhere Not in this World/01 - Introduction.opus"
+Dec 01 15:09 : player: played "Compllege/Somewhere Not in this World/02 - Time Tower 1.opus"
+Dec 01 15:15 : player: played "Compllege/Somewhere Not in this World/03 - Time Tower 2.opus"
+Dec 01 15:24 : player: played "Compllege/Somewhere Not in this World/04 - Time Tower 3.opus"
+Dec 01 15:30 : player: played "Compllege/Somewhere Not in this World/05 - In Another World.opus"
+Dec 01 15:49 : player: played "Compllege/Phant/01 - Bluefieldcreator.opus"
+Dec 01 15:59 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Dec 01 16:00 : player: played "Compllege/Phant/02 - Empty Egg.opus"
+Dec 02 15:22 : player: played "Electrocutica/Hysterisis/05 - Drain Re:Act.opus"
+Dec 02 15:35 : player: played "Compllege/Phant III/01 - Unterhimmel.opus"
+Dec 02 15:45 : player: played "Compllege/Phant III/02 - Dear Eternity.opus"
+Dec 02 15:52 : player: played "Compllege/In the Usual Motion/01 - Opens Inward.opus"
+Dec 02 15:52 : player: played "Compllege/In the Unusual Emotion/01 - Far From Here.opus"
+Dec 02 15:53 : player: played "Compllege/In the Usual Motion/01 - Opens Inward.opus"
+Dec 02 15:56 : player: played "Compllege/In the Usual Motion/02 - Curiosity.opus"
+Dec 02 16:00 : player: played "Compllege/In the Usual Motion/03 - Make This Place.opus"
+Dec 02 16:02 : player: played "Compllege/In the Usual Motion/04 - Boring (But Precious).opus"
+Dec 02 16:06 : player: played "Compllege/In the Usual Motion/05 - Remind This Scene.opus"
+Dec 02 16:08 : player: played "Compllege/In the Usual Motion/06 - Outside Here.opus"
+Dec 02 16:11 : player: played "Compllege/In the Usual Motion/07 - Loiter.opus"
+Dec 02 16:14 : player: played "Compllege/In the Usual Motion/08 - Windmill.opus"
+Dec 02 16:18 : player: played "Compllege/In the Usual Motion/09 - Radiative Cooling.opus"
+Dec 02 16:22 : update: removing Compllege/In the Unusual Emotion/workdir/Compllege - In the Unusual Emotion.webm
+Dec 02 16:22 : update: added Compllege/In the Unusual Emotion/03 - Staying.opus
+Dec 02 16:22 : update: added Compllege/In the Unusual Emotion/04 - Heatstroke.opus
+Dec 02 16:22 : update: added Compllege/In the Unusual Emotion/05 - That Scene.opus
+Dec 02 16:22 : update: added Compllege/In the Unusual Emotion/06 - Into the Green.opus
+Dec 02 16:22 : update: added Compllege/In the Unusual Emotion/07 - Paledrop.opus
+Dec 02 16:22 : update: added Compllege/In the Unusual Emotion/08 - Distant Thunder.opus
+Dec 02 16:22 : update: added Compllege/In the Unusual Emotion/09 - Homeward.opus
+Dec 02 16:22 : update: added Compllege/In the Unusual Emotion/10 - Pieces Of My Memory.opus
+Dec 02 16:22 : update: removing Electrocutica/Hysterisis/workdir/Electrocutica - Hysteresis (2010) [Full Album] [Q8AQDQ7cmCM].webm
+Dec 02 16:24 : player: played "Compllege/In the Usual Motion/10 - Entomind.opus"
+Dec 02 16:28 : player: played "Compllege/In the Unusual Emotion/01 - Far From Here.opus"
+Dec 02 16:32 : player: played "Compllege/In the Unusual Emotion/02 - Misty Orchard.opus"
+Dec 03 16:38 : player: played "Compllege/In the Unusual Emotion/03 - Staying.opus"
+Dec 03 17:11 : player: played "Electrocutica/Hysterisis/06 - iDOLLA A Human Nature.opus"
+Dec 03 17:17 : player: played "Electrocutica/Hysterisis/06 - iDOLLA A Human Nature.opus"
+Dec 03 17:24 : player: played "Electrocutica/Hysterisis/05 - Drain Re:Act.opus"
+Dec 03 17:31 : player: played "Electrocutica/Hysterisis/05 - Drain Re:Act.opus"
+Dec 03 17:31 : player: played "Electrocutica/Hysterisis/05 - Drain Re:Act.opus"
+Dec 03 17:37 : player: played "Electrocutica/Hysterisis/03 - Drain.opus"
+Dec 03 17:44 : player: played "Electrocutica/Hysterisis/03 - Drain.opus"
+Dec 03 21:18 : output: Failed to play on "Pipewire Sound Server" (pipewire): connection error
+Dec 03 21:18 : exception: Failed to open audio output
+Dec 03 21:21 : player: played "Electrocutica/Hysterisis/03 - Drain.opus"
+Dec 03 21:26 : player: played "Compllege/Somewhere Not in this World/01 - Introduction.opus"
+Dec 03 21:31 : player: played "Compllege/Somewhere Not in this World/02 - Time Tower 1.opus"
+Dec 03 21:37 : player: played "Compllege/Somewhere Not in this World/03 - Time Tower 2.opus"
+Dec 03 21:46 : player: played "Compllege/Somewhere Not in this World/04 - Time Tower 3.opus"
+Dec 03 21:53 : player: played "Compllege/Somewhere Not in this World/05 - In Another World.opus"
+Dec 03 22:22 : player: played "Aximetrik/Catnip/01 - Tuna Party.opus"
+Dec 03 22:31 : player: played "Aximetrik/Catnip/02 - Minouches.opus"
+Dec 03 22:40 : player: played "Aximetrik/Catnip/03 - Catnip.opus"
+Dec 06 20:14 : player: played "Harito/Nilca Note/01 - NO.XXXX.opus"
+Dec 06 20:18 : player: played "Harito/Nilca Note/02 - Data2597 12 24.opus"
+Dec 06 20:24 : player: played "Harito/Nilca Note/03 - unnamed_memory.opus"
+Dec 06 20:28 : player: played "Harito/Nilca Note/04 - sleep mode.opus"
+Dec 06 20:33 : player: played "Harito/Nilca Note/05 - seek.opus"
+Dec 06 20:40 : player: played "Harito/Nilca Note/06 - exIstence.opus"
+Dec 06 20:44 : player: played "Harito/Nilca Note/07 - i (another).opus"
+Dec 06 20:48 : player: played "Harito/Nilca Note/08 - Nilca.opus"
+Dec 08 17:38 : player: played "Electrocutica/Hysterisis/01 - Hysteresis.opus"
+Dec 08 17:43 : player: played "Electrocutica/Hysterisis/02 - Blindness.opus"
+Dec 08 17:50 : player: played "Electrocutica/Hysterisis/03 - Drain.opus"
+Dec 08 17:56 : player: played "Electrocutica/Hysterisis/04 - iDOLLA A Human Work.opus"
+Dec 08 18:03 : player: played "Electrocutica/Hysterisis/05 - Drain Re:Act.opus"
+Dec 08 18:10 : player: played "Electrocutica/Hysterisis/06 - iDOLLA A Human Nature.opus"
+Dec 08 18:16 : player: played "Electrocutica/Hysterisis/07 - firstAlphabet mk-2.opus"
+Dec 08 18:31 : player: played "Infected Mushroom/CV/01 - Albibeno.opus"
+Dec 08 18:38 : player: played "Infected Mushroom/CV/02 - Hash Male.opus"
+Dec 08 19:21 : player: played "Infected Mushroom/CV/03 - Apogiffa Night.opus"
+Dec 08 19:29 : player: played "Infected Mushroom/CV/04 - Song Pong.opus"
+Dec 08 19:37 : player: played "Infected Mushroom/CV/05 - Chaplin.opus"
+Dec 08 19:44 : player: played "Infected Mushroom/CV/06 - Echonomix.opus"
+Dec 08 19:52 : player: played "Infected Mushroom/CV/07 - Scorpion Frog.opus"
+Dec 09 15:10 : player: played "Infected Mushroom/CV/08 - Deeply Disturbed.opus"
+Dec 09 15:16 : player: played "Infected Mushroom/CV/09 - Semi Nice.opus"
+Dec 09 15:24 : player: played "Infected Mushroom/CV/10 - Yanko Pitch.opus"
+Dec 09 15:30 : player: played "Infected Mushroom/CV/11 - Converting Vegetarians.opus"
+Dec 09 16:33 : player: played "Infected Mushroom/CV/12 - Elation Station.opus"
+Dec 09 16:49 : player: played "Infected Mushroom/CV/13 - Drop Out.opus"
+Dec 10 14:44 : player: played "Infected Mushroom/CV/14 - Avratz.opus"
+Dec 10 19:08 : player: played "Electrocutica/Hysterisis/01 - Hysteresis.opus"
+Dec 10 19:13 : player: played "Electrocutica/Hysterisis/02 - Blindness.opus"
+Dec 10 19:20 : player: played "Electrocutica/Hysterisis/03 - Drain.opus"
+Dec 10 20:15 : player: played "Electrocutica/Hysterisis/04 - iDOLLA A Human Work.opus"
+Dec 10 20:22 : player: played "Electrocutica/Hysterisis/05 - Drain Re:Act.opus"
+Dec 10 20:29 : player: played "Electrocutica/Hysterisis/06 - iDOLLA A Human Nature.opus"
+Dec 10 20:35 : player: played "Electrocutica/Hysterisis/07 - firstAlphabet mk-2.opus"
+Dec 10 20:42 : player: played "Electrocutica/Hysterisis/04 - iDOLLA A Human Work.opus"
+Dec 10 20:56 : player: played "Electrocutica/Hysterisis/06 - iDOLLA A Human Nature.opus"
+Dec 11 17:06 : player: played "Fusq/Polarity/01 - When The.opus"
+Dec 11 17:06 : player: played "Electrocutica/Hysterisis/03 - Drain.opus"
+Dec 11 17:38 : player: played "Electrocutica/Hysterisis/01 - Hysteresis.opus"
+Dec 11 17:43 : player: played "Electrocutica/Hysterisis/02 - Blindness.opus"
+Dec 13 19:36 : player: played "Compllege/Somewhere Not in this World/01 - Introduction.opus"
+Dec 13 19:39 : player: played "Compllege/Phant II/01 - Tangency.opus"
+Dec 13 19:45 : player: played "Compllege/Phant II/02 - The First Velocity.opus"
+Dec 13 21:13 : player: played "Compllege/Phant II/03 - Apparition of Solid.opus"
+Dec 13 21:19 : player: played "Compllege/Phant II/04 - Dream to the East.opus"
+Dec 13 21:25 : player: played "Compllege/Phant II/05 - Bird Eyes.opus"
+Dec 13 22:00 : player: played "Compllege/Phant II/06 - Telling the World.opus"
+Dec 13 22:02 : player: played "Compllege/Somewhere Not in this World/01 - Introduction.opus"
+Dec 15 14:33 : player: played "Compllege/Somewhere Not in this World/02 - Time Tower 1.opus"
+Dec 15 19:05 : player: played "Compllege/Somewhere Not in this World/03 - Time Tower 2.opus"
+Dec 16 08:15 : player: played "Compllege/Somewhere Not in this World/04 - Time Tower 3.opus"
+Dec 16 08:22 : player: played "Compllege/Somewhere Not in this World/05 - In Another World.opus"
+Dec 16 08:38 : player: played "Compllege/Phant/01 - Bluefieldcreator.opus"
+Dec 16 08:49 : player: played "Compllege/Phant/02 - Empty Egg.opus"
+Dec 16 08:51 : player: played "Harito/Nilca Note/01 - NO.XXXX.opus"
+Dec 16 08:55 : player: played "Harito/Nilca Note/02 - Data2597 12 24.opus"
+Dec 16 09:01 : player: played "Harito/Nilca Note/03 - unnamed_memory.opus"
+Dec 16 09:05 : player: played "Harito/Nilca Note/04 - sleep mode.opus"
+Dec 16 09:10 : player: played "Harito/Nilca Note/05 - seek.opus"
+Dec 16 09:17 : player: played "Harito/Nilca Note/06 - exIstence.opus"
+Dec 16 09:21 : player: played "Harito/Nilca Note/07 - i (another).opus"
+Dec 16 11:33 : player: played "Fusq/Polarity/01 - When The.opus"
+Dec 16 11:38 : player: played "Fusq/Polarity/02 - Inner.opus"
+Dec 16 11:39 : player: played "Fusq/Polarity/03 - Interlude.opus"
+Dec 16 11:42 : player: played "Fusq/Polarity/04 - Gateway.opus"
+Dec 16 17:49 : player: played "Fusq/Polarity/05 - Blush.opus"
+Dec 16 19:20 : player: played "Electrocutica/Hysterisis/07 - firstAlphabet mk-2.opus"
+Dec 16 19:28 : player: played "Infected Mushroom/CV/06 - Echonomix.opus"
+Dec 16 19:34 : player: played "Compllege/Phant Solo II/01 - Bygone.opus"
+Dec 16 19:39 : player: played "Compllege/Phant Solo II/02 - Rituals.opus"
+Dec 16 19:46 : player: played "Compllege/Phant Solo II/03 - The childhood.opus"
+Dec 17 16:17 : player: played "Compllege/Phant Solo II/04 - False God.opus"
+Dec 17 17:08 : player: played "Compllege/Phant Solo II/04 - False God.opus"
+Dec 17 19:15 : player: played "Electrocutica/Hysterisis/03 - Drain.opus"
+Dec 17 19:24 : player: played "Infected Mushroom/CVII/04 - Animatronica.opus"
+Dec 17 21:40 : player: played "Aximetrik/Catnip/01 - Tuna Party.opus"
+Dec 18 11:59 : player: played "Electrocutica/Hysterisis/06 - iDOLLA A Human Nature.opus"
+Dec 18 12:06 : player: played "Electrocutica/Hysterisis/03 - Drain.opus"
+Dec 18 18:27 : player: played "Fusq/Polarity/02 - Inner.opus"
+Dec 18 18:52 : player: played "Infected Mushroom/CVII/04 - Animatronica.opus"
+Dec 18 20:06 : player: played "Electrocutica/Hysterisis/01 - Hysteresis.opus"
+Dec 18 20:11 : player: played "Electrocutica/Hysterisis/02 - Blindness.opus"
+Dec 18 20:18 : player: played "Electrocutica/Hysterisis/03 - Drain.opus"
+Dec 18 20:22 : player: played "Electrocutica/Hysterisis/04 - iDOLLA A Human Work.opus"
+Dec 18 20:23 : player: played "Harito/Mary/01 - Introduction.opus"
+Dec 18 20:25 : player: played "Harito/Mary/02 - alone.opus"
+Dec 18 20:28 : player: played "Harito/Mary/03 - Locate Me.opus"
+Dec 18 20:32 : player: played "Harito/Mary/04 - Strange whisper.opus"
+Dec 19 15:45 : player: played "Harito/Mary/05 - YOU.opus"
+Dec 23 23:49 : player: played "Compllege/Phant/01 - Bluefieldcreator.opus"
+Dec 24 00:37 : player: played "Electrocutica/Hysterisis/01 - Hysteresis.opus"
+Dec 24 00:42 : player: played "Electrocutica/Hysterisis/02 - Blindness.opus"
+Dec 24 00:49 : player: played "Electrocutica/Hysterisis/03 - Drain.opus"
+Dec 24 01:01 : player: played "Electrocutica/Hysterisis/07 - firstAlphabet mk-2.opus"
+Dec 25 01:23 : player: played "Electrocutica/Hysterisis/01 - Hysteresis.opus"
+Dec 25 01:28 : player: played "Electrocutica/Hysterisis/02 - Blindness.opus"
+Dec 25 01:35 : player: played "Electrocutica/Hysterisis/03 - Drain.opus"
+Dec 25 01:41 : player: played "Electrocutica/Hysterisis/04 - iDOLLA A Human Work.opus"
+Dec 25 01:47 : player: played "Electrocutica/Hysterisis/07 - firstAlphabet mk-2.opus"
+Dec 26 23:56 : player: played "Electrocutica/Hysterisis/01 - Hysteresis.opus"
+Dec 27 00:01 : player: played "Electrocutica/Hysterisis/02 - Blindness.opus"
+Dec 27 00:09 : player: played "Electrocutica/Hysterisis/03 - Drain.opus"
+Dec 27 00:15 : player: played "Electrocutica/Hysterisis/04 - iDOLLA A Human Work.opus"
+Dec 27 00:23 : player: played "Electrocutica/Hysterisis/05 - Drain Re:Act.opus"
+Dec 27 00:30 : player: played "Electrocutica/Hysterisis/06 - iDOLLA A Human Nature.opus"
+Dec 27 00:36 : player: played "Electrocutica/Hysterisis/07 - firstAlphabet mk-2.opus"
+Dec 27 13:52 : player: played "Electrocutica/Hysterisis/05 - Drain Re:Act.opus"
+Dec 27 14:05 : player: played "Electrocutica/Hysterisis/07 - firstAlphabet mk-2.opus"
+Dec 27 14:05 : player: played "Electrocutica/Hysterisis/07 - firstAlphabet mk-2.opus"
+Dec 27 14:10 : player: played "Lamp/Soyokaze Apartment 201/01 - Windy Afternoon.opus"
+Dec 27 14:15 : player: played "Lamp/Soyokaze Apartment 201/02 - Raindrop City.opus"
+Dec 27 14:19 : player: played "Lamp/Soyokaze Apartment 201/03 - The Night School.opus"
+Dec 27 14:22 : player: played "Lamp/Soyokaze Apartment 201/04 - Us Tonight.opus"
+Dec 27 14:26 : player: played "Lamp/Soyokaze Apartment 201/05 - Winter Cafe.opus"
+Dec 27 14:27 : update: added C418/Minecraft Volume Alpha/10 - Equinoxe.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Alpha/11 - Mice on Venus.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Alpha/12 - Dry Hands.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Alpha/13 - Wet Hands.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Alpha/14 - Clark.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Alpha/15 - Chris.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Alpha/16 - Thirteen.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Alpha/17 - Excuse.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Alpha/18 - Sweden.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Alpha/19 - Cat.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Alpha/20 - Dog.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Alpha/21 - Danny.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Alpha/22 - Beginning.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Alpha/23 - Droopy likes Ricochet.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Alpha/24 - Droopy Likes Your Face.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Alpha/01 - Key.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Alpha/02 - Door.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Alpha/03 - Subwoofer Lullaby.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Alpha/04 - Death.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Alpha/05 - Living Mice.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Alpha/06 - Moog City.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Alpha/07 - Haggstrom.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Alpha/08 - Minecraft.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Alpha/09 - Oxygene.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/workdir/Ki [oOc1Bp01Buo].webm
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/workdir/Alpha [uNCGM7FJ8wQ].webm
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/workdir/Dead Voxel [rvI3BHwGApQ].webm
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/workdir/Blind Spots [tuOYul49i_8].webm
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/workdir/Flake [Rz-W8vObPzk].webm
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/workdir/Moog City 2 [JYhIM2wHiE8].webm
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/workdir/Concrete Halls [HY7FSEYo7Q8].webm
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/workdir/Biome Fest [KcwaDLQ0j_g].webm
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/workdir/Mutation [oJfD461wTC0].webm
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/workdir/Haunt Muskie [MgcRBEes3lg].webm
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/workdir/Warmth [qU8Plvv8I44].webm
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/workdir/Floating Trees [pLTj894YC5I].webm
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/workdir/Aria Math [KOIEo_74L-Q].webm
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/workdir/Kyoto [QX5R1l9OhTw].webm
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/workdir/Ballad of the Cats [ozqEMxlEnDg].webm
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/workdir/Taswell [TOGswC4X8Nc].webm
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/workdir/Beginning 2 [y0ucwtZNcsc].webm
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/workdir/Dreiton [IJJo3AUF5e8].webm
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/workdir/The End [ZKT5RO-C-jw].webm
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/workdir/Chirp [tB6r8w2S3aw].webm
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/workdir/Wait [0CV9K7bWGXE].webm
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/workdir/Mellohi [ldZSvzVAHp8].webm
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/workdir/Stal [PRUtpWzsSEg].webm
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/workdir/Strad [zaUEqJEPTOg].webm
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/workdir/Eleven [l9nULbHnzfk].webm
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/workdir/Ward [f4pY_oF2_lc].webm
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/workdir/Mall [Bh4KgzZ55Do].webm
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/workdir/Blocks [r87ECi9RR_M].webm
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/workdir/Far [mRHNe4R7wcE].webm
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/workdir/Intro [y7sm01H0w9Y].webm
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/01 - Ki.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/02 - Alpha.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/03 - Dead Voxel.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/04 - Blind Spots.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/05 - Flake.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/06 - Moog City 2.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/07 - Concrete Halls.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/08 - Biome Fest.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/09 - Mutation.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/10 - Haunt Muskie.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/11 - Warmth.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/12 - Floating Trees.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/13 - Aria Math.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/14 - Kyoto.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/15 - Ballad of the Cats.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/16 - Taswell.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/17 - Beginning 2.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/18 - Dreiton.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/19 - The End.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/20 - Chirp.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/21 - Wait.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/22 - Mellohi.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/23 - Stal.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/24 - Strad.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/25 - Eleven.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/26 - Ward.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/27 - Mall.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/28 - Blocks.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/29 - Far.opus
+Dec 27 14:27 : update: added C418/Minecraft Volume Beta/30 - Intro.opus
+Dec 27 14:30 : player: played "Lamp/Soyokaze Apartment 201/06 - From The Window.opus"
+Dec 28 13:20 : update: removing C418/Minecraft Volume Beta/workdir/Chirp [tB6r8w2S3aw].webm
+Dec 28 13:20 : update: removing C418/Minecraft Volume Beta/workdir/Blocks [r87ECi9RR_M].webm
+Dec 28 13:20 : update: removing C418/Minecraft Volume Beta/workdir/Blind Spots [tuOYul49i_8].webm
+Dec 28 13:20 : update: removing C418/Minecraft Volume Beta/workdir/Biome Fest [KcwaDLQ0j_g].webm
+Dec 28 13:20 : update: removing C418/Minecraft Volume Beta/workdir/Beginning 2 [y0ucwtZNcsc].webm
+Dec 28 13:20 : update: removing C418/Minecraft Volume Beta/workdir/Ballad of the Cats [ozqEMxlEnDg].webm
+Dec 28 13:20 : update: removing C418/Minecraft Volume Beta/workdir/Aria Math [KOIEo_74L-Q].webm
+Dec 28 13:20 : update: removing C418/Minecraft Volume Beta/workdir/Alpha [uNCGM7FJ8wQ].webm
+Dec 28 13:20 : update: removing C418/Minecraft Volume Beta/workdir/Warmth [qU8Plvv8I44].webm
+Dec 28 13:20 : update: removing C418/Minecraft Volume Beta/workdir/Ward [f4pY_oF2_lc].webm
+Dec 28 13:20 : update: removing C418/Minecraft Volume Beta/workdir/Wait [0CV9K7bWGXE].webm
+Dec 28 13:20 : update: removing C418/Minecraft Volume Beta/workdir/The End [ZKT5RO-C-jw].webm
+Dec 28 13:20 : update: removing C418/Minecraft Volume Beta/workdir/Taswell [TOGswC4X8Nc].webm
+Dec 28 13:20 : update: removing C418/Minecraft Volume Beta/workdir/Strad [zaUEqJEPTOg].webm
+Dec 28 13:20 : update: removing C418/Minecraft Volume Beta/workdir/Stal [PRUtpWzsSEg].webm
+Dec 28 13:20 : update: removing C418/Minecraft Volume Beta/workdir/Mutation [oJfD461wTC0].webm
+Dec 28 13:20 : update: removing C418/Minecraft Volume Beta/workdir/Moog City 2 [JYhIM2wHiE8].webm
+Dec 28 13:20 : update: removing C418/Minecraft Volume Beta/workdir/Mellohi [ldZSvzVAHp8].webm
+Dec 28 13:20 : update: removing C418/Minecraft Volume Beta/workdir/Mall [Bh4KgzZ55Do].webm
+Dec 28 13:20 : update: removing C418/Minecraft Volume Beta/workdir/Kyoto [QX5R1l9OhTw].webm
+Dec 28 13:20 : update: removing C418/Minecraft Volume Beta/workdir/Ki [oOc1Bp01Buo].webm
+Dec 28 13:20 : update: removing C418/Minecraft Volume Beta/workdir/Intro [y7sm01H0w9Y].webm
+Dec 28 13:20 : update: removing C418/Minecraft Volume Beta/workdir/Haunt Muskie [MgcRBEes3lg].webm
+Dec 28 13:20 : update: removing C418/Minecraft Volume Beta/workdir/Floating Trees [pLTj894YC5I].webm
+Dec 28 13:20 : update: removing C418/Minecraft Volume Beta/workdir/Flake [Rz-W8vObPzk].webm
+Dec 28 13:20 : update: removing C418/Minecraft Volume Beta/workdir/Far [mRHNe4R7wcE].webm
+Dec 28 13:20 : update: removing C418/Minecraft Volume Beta/workdir/Eleven [l9nULbHnzfk].webm
+Dec 28 13:20 : update: removing C418/Minecraft Volume Beta/workdir/Dreiton [IJJo3AUF5e8].webm
+Dec 28 13:20 : update: removing C418/Minecraft Volume Beta/workdir/Dead Voxel [rvI3BHwGApQ].webm
+Dec 28 13:20 : update: removing C418/Minecraft Volume Beta/workdir/Concrete Halls [HY7FSEYo7Q8].webm
+Dec 28 13:21 : update: removing Lamp/workdir/Lamp – そよ風アパートメント201 (Soyokaze Apartment 201) [1w5pQHsRYvk].webm
+Dec 28 13:21 : update: removing Compllege/Somewhere Not in this World/workdir/Somewhere Not in this World.webm
+Dec 28 13:27 : player: played "Lamp/Gensou/01 - Hakanaki Haro No Ichimaku.opus"
+Dec 28 13:30 : player: played "Lamp/Gensou/02 - Hisoyakani.opus"
+Dec 28 13:35 : player: played "Lamp/Gensou/03 - Yugure.opus"
+Dec 28 13:40 : player: played "Lamp/Gensou/04 - Ame Furu Yoru No Mukou.opus"
+Dec 28 13:44 : player: played "Lamp/Gensou/06 - Hakucyumu.opus"
+Dec 28 13:48 : player: played "Lamp/Gensou/05 - Yume Utsutsu.opus"
+Dec 28 13:49 : output: Failed to play on "Pipewire Sound Server" (pipewire): no node available
+Dec 28 13:49 : exception: Failed to open audio output
+Dec 28 13:51 : player: played "Lamp/Gensou/05 - Yume Utsutsu.opus"
+Dec 28 13:53 : player: played "Lamp/Gensou/05 - Yume Utsutsu.opus"
+Dec 28 13:59 : player: played "Lamp/Gensou/07 - Nihon Syonen No Natsu.opus"
+Dec 28 18:58 : player: played "Lamp/Gensou/08 - Hatachi No Koi.opus"
+Jan 01 14:31 : player: played "Electrocutica/Hysterisis/01 - Hysteresis.opus"
+Jan 01 14:36 : player: played "Electrocutica/Hysterisis/02 - Blindness.opus"
+Jan 01 14:42 : player: played "Electrocutica/Hysterisis/03 - Drain.opus"
+Jan 01 14:49 : player: played "Electrocutica/Hysterisis/04 - iDOLLA A Human Work.opus"
+Jan 01 14:56 : player: played "Electrocutica/Hysterisis/06 - iDOLLA A Human Nature.opus"
+Jan 01 15:02 : player: played "Electrocutica/Hysterisis/07 - firstAlphabet mk-2.opus"
+Jan 02 17:15 : player: played "Electrocutica/Hysterisis/01 - Hysteresis.opus"
+Jan 02 17:17 : player: played "Fusq/Polarity/01 - When The.opus"
+Jan 02 17:23 : player: played "Fusq/Polarity/02 - Inner.opus"
+Jan 02 17:23 : player: played "Fusq/Polarity/03 - Interlude.opus"
+Jan 02 17:26 : player: played "Fusq/Polarity/04 - Gateway.opus"
+Jan 02 17:29 : player: played "Fusq/Polarity/05 - Blush.opus"
+Jan 02 17:30 : player: played "Fusq/Polarity/06 - Then.opus"

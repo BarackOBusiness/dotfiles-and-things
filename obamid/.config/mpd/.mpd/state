@@ -1,15 +1,18 @@
 sw_volume: 90
-audio_device_state:1:PulseAudio (on PipeWire 0.3.32)
+audio_device_state:1:Pipewire Sound Server
 state: stop
-current: 0
-random: 1
+random: 0
 repeat: 0
 single: 0
 consume: 0
-crossfade: 0
+crossfade: 5
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Trance & Psytrance/Claws and Teeth.opus
-1:Trance & Psytrance/Dear Eternity.opus
+0:Fusq/Polarity/01 - When The.opus
+1:Fusq/Polarity/02 - Inner.opus
+2:Fusq/Polarity/03 - Interlude.opus
+3:Fusq/Polarity/04 - Gateway.opus
+4:Fusq/Polarity/05 - Blush.opus
+5:Fusq/Polarity/06 - Then.opus
 playlist_end
