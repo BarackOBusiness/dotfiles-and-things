@@ -6,7 +6,7 @@
 
 Let's see what I did wrong in the past.\
 Game plan is roughly the same, [install gentoo](https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/About).\
-This time, though, let's actually replace OpenRC with [66](https://git.obarun.org/gentoo-66/66tools-overlay), the reason this didn't work is because I accepted the ~amd64 keyword globally, I think..\
+This time, though, let's actually replace OpenRC with [66](https://framagit.org/architekt/66tools-overlay), the reason this didn't work is because I accepted the ~amd64 keyword globally, I think..\
 Maybe lay off on the btrfs subvolumes this time, I never ended up using them, or setting up snapshotting.\
 In my next installation I plan on having more storage, so there will be a different partition layout, particularly I'd like to have some games on an SSD, and have my hard drive dedicated to recordings, that way I'm not writing to the same disk I'm playing from, which can sometimes be crucial.\
 Use the desktop profile this time, we'll see if we can get away with just using seatd, but maybe we'll have to use elogind.\
